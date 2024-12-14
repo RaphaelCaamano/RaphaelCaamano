@@ -7,10 +7,9 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-👨‍💻 Software Developer with some ambition and determination in technology
-🏋️‍♂️ Workout in the gym, swimming, using my phone and laptop
-🏊‍♂️ Event Director of ColorStack x Computer Science Club, member of Urban Male Leadership Program, Swimming and Diving team
-🎧 I used technology my whole life
+👨‍💻 Software Developer with some ambition and determination in technology                                                                                                   🏋️‍♂️ Workout in the gym, swimming, using my phone and laptop                                                                                                                 
+🏊‍♂️ Event Director of ColorStack x Computer Science Club, member of Urban Male Leadership Program, Swimming and Diving team                                                 
+🎧 I used technology my whole life                                                                                                                                         
 💪🏼 #tryingmybest is my resilience
 
 
