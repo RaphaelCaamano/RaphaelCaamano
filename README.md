@@ -6,7 +6,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-📝 Checkout my Resume
 
 👨‍💻 Software Developer with some ambition and determination in technology
 
