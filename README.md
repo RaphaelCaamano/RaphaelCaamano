@@ -12,10 +12,10 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 💻 Studying Computer Science at Lehman College, New York
 
-🏊🏼 Workout in the gym, swimming, using my phone and laptop
+🏋️‍♂️ Workout in the gym, swimming, using my phone and laptop
 
-🎨 Event Director of ColorStack x Computer Science Club, member of Urban Male Leadership Program, Swimming and Diving team
+🏊‍♂️ Event Director of ColorStack x Computer Science Club, member of Urban Male Leadership Program, Swimming and Diving team
 
-😍 Schwags and Goodies drives me crazy
+🎧 I used technology my whole life
 
 💪🏼 #tryingmybest is my resilience
