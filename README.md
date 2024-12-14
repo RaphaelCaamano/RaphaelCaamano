@@ -17,15 +17,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-<br/>
-<p align="left">
-  <a href="http://127.0.0.1/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=transparent">	  
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&" alt="raphaelcaamano">		  
-  </a>
-</p>
-<br>
+
 
 # 💻 Tech Stack: 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -37,6 +29,27 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 <img src="https://img.shields.io/badge/spyder-ffffff?style=for-the-badge&logo=spyderide&logoColor=black">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+
+
+
+
+
+
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+<br/>
+<p align="left">
+  <a href="http://127.0.0.1/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=transparent">	  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&" alt="raphaelcaamano">		  
+  </a>
+</p>
+<br>
+
+
+
+
+
+
 
 
 
