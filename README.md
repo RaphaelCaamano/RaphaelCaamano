@@ -29,7 +29,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<!-- ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelCaamano&show_icons=true&theme=vision-friendly-dark&hide_border=true) -->
+<!-- ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelCaamano&show_icons=true&theme=dark&hide_border=true) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelCaamano&hide=html&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelCaamano&hide=html&layout=compact&langs_count=8&theme=dark&hide_border=true)
 
