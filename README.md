@@ -1,19 +1,16 @@
-## Hi there 👋 I'm Raphael Caamano, I'm an ambitious Software Developer
 
-<!--
-**RaphaelCaamano/RaphaelCaamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi there, I'm Raphael Caamano!
+👨‍💻 Software Developer with some ambition and determination in technology
+💻 Studying Computer Science at Lehman College, New York
+🏊🏼 Workout in the gym, swimming, using my phone and laptop
+💪🏼 #tryingmybest is my resilience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills
+HTML5 CSS3 JavaScript Python Java C
+
+
 
 
 
