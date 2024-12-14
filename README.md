@@ -66,12 +66,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-
-
-
-
-
-
-# Get In Touch / Support Me with coffee or books!
-
-https://www.linkedin.com/in/raphael-caamano/
