@@ -16,7 +16,11 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-
+Education
+Major Concentration	Minor Concentration	School/University	Graduation Year	Scoring
+PhD in Computer Science	Pending	CUNY Lehman College	Pending	Pending
+M.B.A. in Computer Science	Pending	CUNY Lehman College	Pending	Pending
+B.A. in Computer Science	Finance	CUNY Lehman College	Ongoing	4.0 GPA (Current)
 
 
 
