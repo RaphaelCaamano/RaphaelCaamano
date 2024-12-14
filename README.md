@@ -32,4 +32,4 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Adobe Dreamweaver</title><path d="M6.69.119.05.1.14l-2.159 7.71z"/></svg>
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Adobe Dreamweaver</title><path/></svg>
