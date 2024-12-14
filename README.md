@@ -38,7 +38,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
   </tr>
   <tr>
     <td>A.S. in Business Administration</td>
-    <td>Computer Programming Option</td>
+    <td>Business Administration : Computer Programming Option</td>
     <td><a href="https://www.bcc.cuny.edu/">Bronx Community College</a></td>
     <td>Complete</td>
     <td>3.0 GPA</td>
