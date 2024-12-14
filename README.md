@@ -62,7 +62,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-## 🎓 Certifications:
+## Certifications:
 
 - **ISC2**: Certified in Cybersecurity (CC), Systems Security Certified Practitioner (SSCP)
 - **CompTIA**: Security+. Network+, A+
