@@ -24,8 +24,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 # 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&locale=en" alt="raphaelcaamano" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&" alt="raphaelcaamano" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&locale=en" alt="raphaelcaamano&theme=dark" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&" alt="raphaelcaamano&theme=dark" /></p>
 
 
 
