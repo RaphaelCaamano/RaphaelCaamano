@@ -32,7 +32,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<h3 align="left">💻 Tech Stack:</h3>
+<h3 align="left">💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Dreamweaver-470137?style=for-the-badge&logo=adobe&logoColor=001E36">
