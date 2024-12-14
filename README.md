@@ -2,18 +2,12 @@
 
 
 👨‍💻 Software Developer with some ambition and determination in technology
+
 💻 Studying Computer Science at Lehman College, New York
+
 🏊🏼 Workout in the gym, swimming, using my phone and laptop
+
 💪🏼 #tryingmybest is my resilience
-
-
-
-Skills
-HTML5 CSS3 JavaScript Python Java C
-
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
