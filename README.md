@@ -6,9 +6,15 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 📝 Checkout my Resume
+
 👨‍💻 Software Developer with some ambition and determination in technology
+
 💻 Studying Computer Science at Lehman College, New York
+
 🏊🏼 Workout in the gym, swimming, using my phone and laptop
+
 🎨 Event Director of ColorStack x Computer Science Club, member of Urban Male Leadership Program, Swimming and Diving team
+
 😍 Schwags and Goodies drives me crazy
+
 💪🏼 #tryingmybest is my resilience
