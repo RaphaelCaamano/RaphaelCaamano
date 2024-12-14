@@ -1,10 +1,11 @@
-
-
 👋 Hi there, I'm Raphael Caamano!
+
+
 👨‍💻 Software Developer with some ambition and determination in technology
 💻 Studying Computer Science at Lehman College, New York
 🏊🏼 Workout in the gym, swimming, using my phone and laptop
 💪🏼 #tryingmybest is my resilience
+
 
 
 Skills
