@@ -27,7 +27,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <br/>
 <p align="left">
   <a href="http://127.0.0.1/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=D7EAD&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=transparent">	  
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=D7EAD&theme=gruvbox&hide_border=true">		  
   </a>
 </p>
