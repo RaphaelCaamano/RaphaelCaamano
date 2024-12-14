@@ -1,4 +1,4 @@
-## Hi there 👋🏼 I'm Raphael 
+## Hi 👋🏼 I'm Raphael 
 
 I'm currently a transfer student (lower senior) in Lehman College, majoring in Bachelor of Science in Computer Science
 
