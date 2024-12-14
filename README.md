@@ -43,14 +43,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelcaamano&show_icons=true&locale=en&layout=compact" alt="raphaelcaamano" /></p>
 
-
-
-
-
-
-
-
-# Connect with me / Support Me
-
-<a href="https://www.linkedin.com/in/raphael-caamano/"><img height="30" src="https://github.com/raphaelcaamano/aboutme/blob/main/assets/linkedin.png"></a>&nbsp;&nbsp;
-<a href="caamano.raphael@gmail.com"><img height="30" src="https://github.com/raphaelcaamano/aboutme/blob/main/assets/email.png"></a>&nbsp;&nbsp;
