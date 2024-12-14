@@ -31,7 +31,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
   </tr>
   <tr>
     <td>B.S. in Computer Science</td>
-    <td><em>Pending</em></td>
+    <td><em>None</em></td>
     <td><a href="https://lehman.edu/">Lehman College</a></td>
     <td><em>Pending</em></td>
     <td><em>Pending</em></td>
