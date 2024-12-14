@@ -28,5 +28,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&" alt="raphaelcaamano" /></p>
 
-![image](https://user-images.githubusercontent.com/20955511/221571948-1b69a2cc-87af-4e96-83fa-f01278c22c33.png)       |
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
