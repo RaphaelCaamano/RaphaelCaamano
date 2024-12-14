@@ -31,3 +31,18 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelcaamano&show_icons=true&locale=en&layout=compact" alt="raphaelcaamano" /></p>
 
 
+
+
+
+
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
+<br/>
+<p align="left">
+  <a href="http://127.0.0.1/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=D7EAD&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=D7EAD&theme=gruvbox&hide_border=true">		  
+  </a>
+</p>
+<br>
+
