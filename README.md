@@ -47,6 +47,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 <p>
 <div align="center">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
 </p>
