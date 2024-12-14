@@ -25,6 +25,10 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> <img src="https://img.shields.io/badge/Dreamweaver-470137?style=for-the-badge&logo=adobe&logoColor=001E36"> <img src="https://img.shields.io/badge/Spyder-%23ffffff.svg?style=for-the-badge&logo=#8C0000&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelcaamano&show_icons=true&locale=en&layout=compact" alt="raphaelcaamano" /></p>
+
+
+
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 <br/>
