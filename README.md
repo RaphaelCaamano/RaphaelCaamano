@@ -1,4 +1,4 @@
-## Hi 👋🏼 I'm Raphael 
+## Hi, I'm Raphael Caamano
 
 I'm a transfer student in Lehman College, majoring in Bachelor of Science in Computer Science
 
