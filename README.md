@@ -47,3 +47,25 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&" alt="raphaelcaamano" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelcaamano&show_icons=true&locale=en&layout=compact" alt="raphaelcaamano" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+export const themes = {
+  default: {
+    title_color: "2f80ed",
+    icon_color: "4c71f2",
+    text_color: "434d58",
+    bg_color: "fffefe",
+    border_color: "e4e2e2",
+  },
