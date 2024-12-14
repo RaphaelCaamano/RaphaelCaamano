@@ -74,5 +74,4 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 # Get In Touch / Support Me with coffee or books!
 
-<a href="https://www.linkedin.com/in/raphael-caamano/"><img height="30" src="https://github.com/RaphaelCaamano/aboutme/blob/main/assets/linkedin.png"></a>&nbsp;&nbsp; 
-<a href="mailto:caamano.raphael@gmail.com"><img height="30" src="https://github.com/RaphaelCaamano/aboutme/blob/main/assets/email.png"></a>&nbsp;&nbsp;
+https://www.linkedin.com/in/raphael-caamano/
