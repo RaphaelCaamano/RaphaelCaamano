@@ -30,8 +30,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> <img src="https://img.shields.io/badge/Dreamweaver-470137?style=for-the-badge&logo=adobe&logoColor=001E36"> <img src="https://img.shields.io/badge/spyder-ffffff?style=for-the-badge&logo=spyderide&logoColor=black"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-
 
 
 
@@ -58,6 +56,10 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+<img src="https://img.shields.io/badge/Dreamweaver-470137?style=for-the-badge&logo=adobe&logoColor=001E36">
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+<img src="https://img.shields.io/badge/spyder-ffffff?style=for-the-badge&logo=spyderide&logoColor=black">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
