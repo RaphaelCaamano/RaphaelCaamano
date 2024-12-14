@@ -51,7 +51,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src="https://img.shields.io/badge/Dreamweaver-470137?style=for-the-badge&logo=adobe&logoColor=001E36">   
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
-<img src="https://img.shields.io/badge/spyder-%23221021.svg?style=for-the-badge&logo=spyder&logoColor=white">
+<img src="https://img.shields.io/badge/Spyder-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white">
+
 
 </div>
 </p>
