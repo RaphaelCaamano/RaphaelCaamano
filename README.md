@@ -53,3 +53,22 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+
+
+
+
+
+
+
+
+
+## 🎓 Certifications:
+
+- **ISC2**: Certified in Cybersecurity (CC), Systems Security Certified Practitioner (SSCP)
+- **CompTIA**: Security+. Network+, A+
+- **Microsoft Azure**: AZ900, AI900, SC900
+- **Google Cloud Platform**: Certified Cloud Digital Leader
+- **Fortinet**: Fortinet Certified Associate (FCA) in Cybersecurity
+- **CISCO**: Junior Cybersecurity Analyst Path, Network Technician Career Path
+- **Coursera**: IT Support, and Cybersecurity Analyst Specializations from Google, IBM and Microsoft
+
