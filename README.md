@@ -29,5 +29,5 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=holi)
+![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=dark)
 
