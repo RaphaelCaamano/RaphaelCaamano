@@ -19,36 +19,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-## Education
-
-<table>
-  <tr>
-    <th>Major Concentration</th>
-    <th>Minor Concentration</th>
-    <th>School/University</th>
-    <th>Graduation Year</th>
-    <th>Scoring</th>
-  </tr>
-  <tr>
-    <td>B.S. in Computer Science</td>
-    <td><em>None</em></td>
-    <td><a href="https://lehman.edu/">Lehman College</a></td>
-    <td><em>Pending</em></td>
-    <td><em>Pending</em></td>
-  </tr>
-  <tr>
-    <td>A.S. in Business Administration</td>
-    <td>Computer Programming Option</td>
-    <td><a href="https://www.bcc.cuny.edu/">Bronx Community College</a></td>
-    <td>2023</td>
-    <td>3.0 GPA</td>
-  </tr>
- </table>
-
-
-
-
-
 
 
 
