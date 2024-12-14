@@ -31,5 +31,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelcaamano&show_icons=true&locale=en&layout=compact" alt="raphaelcaamano" /></p>
 
 
-
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Adobe Dreamweaver</title><path/></svg>
