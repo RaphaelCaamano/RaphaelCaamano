@@ -22,7 +22,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Linux](https://img.shields.io/badge/linux-%23121011.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-3E2723?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Spyder IDE](https://img.shields.io/badge/SpyderIDE-ffffff.svg?style=for-the-badge&logo=SpyderIDE&logoColor=black)
+![Spyder IDE](https://img.shields.io/badge/spyderide-ffffff.svg?style=for-the-badge&logo=spyderide&logoColor=black)
 
 
 
