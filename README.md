@@ -71,4 +71,5 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/raphael-caamano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphael-caamano" height="30" width="40" /></a>
+<a href="mailtocaamano.raphael@gmail.com"><img height="30" src="https://github.com/raphaelcaamano/aboutme/blob/main/assets/email.png"></a>&nbsp;&nbsp;
 </p>
