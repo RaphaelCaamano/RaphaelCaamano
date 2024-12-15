@@ -57,12 +57,16 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img align="right" width="70px" src="./img/university.png" />
 
 Bronx Community College 
+
 Associate of Science - AS, Business Administration : Computer Programming Option
+
 GPA: 3.087
 
 
-Lehman College 
-Bachelor of Science - BS, Computer Science 
+Lehman College
+
+Bachelor of Science - BS, Computer Science
+
 GPA: 4.068
 
 
