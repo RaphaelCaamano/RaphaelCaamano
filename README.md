@@ -23,7 +23,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Java](https://img.shields.io/badge/java-3E2723?style=for-the-badge&logo=systemd&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Spyder IDE](https://img.shields.io/badge/spyderIDE-%ffffff.svg?style=for-the-badge&logo=spyderIDE&logoColor=white)
+<img src="https://img.shields.io/badge/spyder-ffffff?style=for-the-badge&logo=spyderide&logoColor=black">
+
 
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
