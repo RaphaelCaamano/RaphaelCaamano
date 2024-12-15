@@ -56,8 +56,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 Bronx Community College 
-        Associate of Science - AS, Business Administration : Computer Programming Option
-        GPA: 3.087
+                                                      Associate of Science - AS, Business Administration : Computer Programming Option
+                                                      GPA: 3.087
 
 
 
