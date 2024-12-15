@@ -52,6 +52,20 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+## Education
+
+<img align="right" width="70px" src="./img/university.png" />
+
+- 📖 **&nbsp;Bachelor of Science - BS, Computer Science**\
+📆 &nbsp;2023 - 2026\
+📍 **&nbsp;Lehman College* -  Bronx, New York
+
+<img align="right" width="70px" src="./img/college.png" />
+
+- 📖 **&nbsp;Associate of Science - AS, Business Administration : Computer Programming Option**\
+📆 &nbsp;2019 - 2023\
+📍 **Bronx Community College** - Bronx, New York
+📍 **GPA: 3.087
 
 
 
