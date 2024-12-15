@@ -64,11 +64,11 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 ## Certifications:
 
-- **ISC2**: Certified in Cybersecurity (CC), Systems Security Certified Practitioner (SSCP)
-- **CompTIA**: Security+. Network+, A+
-- **Microsoft Azure**: AZ900, AI900, SC900
-- **Google Cloud Platform**: Certified Cloud Digital Leader
-- **Fortinet**: Fortinet Certified Associate (FCA) in Cybersecurity
-- **CISCO**: Junior Cybersecurity Analyst Path, Network Technician Career Path
-- **Coursera**: IT Support, and Cybersecurity Analyst Specializations from Google, IBM and Microsoft
+- **W3Schools**: Certified HTML Developer
+- **Lehman College**: ColorStack x Computer Science Club - Certificate of Recognition (Treasurer)
+- **Forage**: JPMorgan Chase & Co. - Software Engineering Lite Job Simulation
+- **Forage**: AIG - Shields Up: Cybersecurity Job Simulation
+- **Girls Who Code**: So You Think You Can Code? - Certificate of Achievement : Best Coder
+- **Lehman College**: ColorStack x Computer Science Club - Certificate of Recognition (Event Director)
+- **Lehman College**: ColorStack x Computer Science Club - Certificate of Recognition
 
