@@ -72,3 +72,13 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 - **Lehman College**: ColorStack x Computer Science Club - Certificate of Recognition (Event Director)
 - **Lehman College**: ColorStack x Computer Science Club - Certificate of Recognition
 
+
+
+
+
+
+
+
+
+
+<img src = "https://skillicons.dev/icons?i=visualstudio"/></a>
