@@ -49,7 +49,9 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 
@@ -66,12 +68,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
