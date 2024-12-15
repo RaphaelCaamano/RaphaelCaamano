@@ -57,20 +57,15 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img align="right" width="70px" src="./img/university.png" />
 
 - Lehman College
-- 
-Bachelor of Science - BS, Computer Science\
-
-2023 - 2026
+- Bachelor of Science - BS, Computer Science\
+- 2023 - 2026
 
 <img align="right" width="70px" src="./img/college.png" />
 
 - Bronx Community College
-- 
-Associate of Science - AS, Business Administration : Computer Programming Option\
-
-2019 - 2023
-
-GPA: 3.087
+- Associate of Science - AS, Business Administration : Computer Programming Option\
+- 2019 - 2023
+- GPA: 3.087
 
 
 
