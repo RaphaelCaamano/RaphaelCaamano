@@ -17,7 +17,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+<img src="https://skillicons.dev/icons?i=visualstudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> 
 <img src="https://img.shields.io/badge/Dreamweaver-470137?style=for-the-badge&logo=adobe&logoColor=001E36">
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -75,10 +75,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-
-
-
-
-
-
-<img src = "https://skillicons.dev/icons?i=visualstudio"/></a>
