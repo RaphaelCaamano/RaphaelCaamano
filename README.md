@@ -27,6 +27,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <p align="left">
   <a href="http://127.0.0.1/">
     <img height="165px" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=holi">
+    <img width="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak""> 
+
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak""> 
 
 <br>
@@ -53,3 +55,5 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 - **Girls Who Code**: So You Think You Can Code? - Certificate of Achievement : Best Coder
 - **Lehman College**: ColorStack x Computer Science Club - Certificate of Recognition (Event Director)
 - **Lehman College**: ColorStack x Computer Science Club - Certificate of Recognition
+
+
