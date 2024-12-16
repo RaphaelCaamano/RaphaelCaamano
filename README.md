@@ -24,16 +24,12 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=bilardi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-
-
-
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 <br/>
 <p align="left">
   <a href="http://127.0.0.1/">
-    <img height="198px" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=holi">
+    <img height="197px" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=holi">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak""> 
   </a>
 </p>
