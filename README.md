@@ -1,7 +1,8 @@
 ## Hi, I'm Raphael Caamano
 
-I'm an ambitious software developer and tech Enthusiast who takes opportunities to further enhance my programming skills through taking more challenging coursework and projects that would bring me to an even deeper understanding of the theoretical underpinnings to form the basis for modern computing technologies.
+I'm a transfer student in Lehman College, majoring in Bachelor of Science in Computer Science
 
+Tech Enthusiast who takes opportunities to further enhance my programming skills through taking more challenging coursework and projects that would bring me to an even deeper understanding of the theoretical underpinnings to form the basis for modern computing technologies.
 
 👨‍💻 Software Developer with some ambition and determination in technology                                                                                                   
         🏋️‍♂️ Workout in the gym, swimming, using my phone and laptop                                                                                                               
