@@ -24,6 +24,11 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=bilardi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilypmendez&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
+
+
+
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 <br/>
 <p align="left">
