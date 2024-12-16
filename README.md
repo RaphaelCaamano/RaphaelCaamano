@@ -54,3 +54,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 - **Lehman College**: ColorStack x Computer Science Club - Certificate of Recognition
 
 
+
+
+
+
+<img width="49.5%" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=qwerty541&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-light-mode-only">
