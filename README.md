@@ -25,7 +25,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Spyder](https://img.shields.io/badge/spyder-ffffff.svg?style=for-the-badge&logo=spyderide&logoColor=8c0000)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-101630?style=for-the-badge&logo=codecademy&logoColor=FFF0E5)
-![Git](https://img.shields.io/badge/git-%3d2d00.svg?style=for-the-badge&logo=git&logoColor=23F05033)            
+![Git](https://img.shields.io/badge/git-3d2d00?style=for-the-badge&logo=git&logoColor=23F05033)            
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
