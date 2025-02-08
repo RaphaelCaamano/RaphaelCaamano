@@ -45,12 +45,12 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 ## Certifications:
 
-- **Bloomberg Market Concepts 
-- **Bloomberg Finance Fundamentals 
-- **Bloomberg Environmental Social Governance
-- **JPMorgan Chase & Co. - Software Engineering Lite Job Simulation
-- **AIG - Shields Up: Cybersecurity Job Simulation
-- **W3Schools Certified HTML Developer
+- Bloomberg Market Concepts 
+- Bloomberg Finance Fundamentals 
+- Bloomberg Environmental Social Governance
+- JPMorgan Chase & Co. - Software Engineering Lite Job Simulation
+- AIG - Shields Up: Cybersecurity Job Simulation
+- W3Schools Certified HTML Developer
 
 
 
