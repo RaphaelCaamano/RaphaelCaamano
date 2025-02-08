@@ -45,13 +45,13 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 ## Certifications:
 
-- **W3Schools**: Certified HTML Developer
-- **Lehman College**: ColorStack x Computer Science Club - Certificate of Recognition (Treasurer)
-- **Forage**: JPMorgan Chase & Co. - Software Engineering Lite Job Simulation
-- **Forage**: AIG - Shields Up: Cybersecurity Job Simulation
-- **Girls Who Code**: So You Think You Can Code? - Certificate of Achievement : Best Coder
-- **Lehman College**: ColorStack x Computer Science Club - Certificate of Recognition (Event Director)
-- **Lehman College**: ColorStack x Computer Science Club - Certificate of Recognition
+- **Bloomberg Market Concepts 
+- **Bloomberg Finance Fundamentals 
+- **Bloomberg Environmental Social Governance
+- **JPMorgan Chase & Co. - Software Engineering Lite Job Simulation
+- **AIG - Shields Up: Cybersecurity Job Simulation
+- **W3Schools Certified HTML Developer
+
 
 
 
