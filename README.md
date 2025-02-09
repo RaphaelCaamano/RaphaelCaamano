@@ -49,7 +49,10 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" />                               
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/raphael-caamano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raphael-caamano/" height="30" width="40" /></a>
+</p>
 
 
 
