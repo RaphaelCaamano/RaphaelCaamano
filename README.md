@@ -68,11 +68,51 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+
+### 🛠️ 𝑇𝑂𝑂𝐿𝑆 𝑂𝐹 𝑀𝑌 𝑊𝑂𝑅𝐾𝑆𝐻𝑂𝑃
+
+<br>
+
 <p align="center">
-<!Visual Studio Code>
-<a href="https://code.visualstudio.com#gh-light-mode-only">
-<img src="./assets/tools/vscode-light.svg#gh-light-mode-only" alt="Visual Studio Code" height="60" hspace="10" >
-</a>
+  <!-- IntellJ IDEA -->
+  <a href="https://www.jetbrains.com/idea#gh-light-mode-only">
+    <img src="./assets/tools/idea-light.svg#gh-light-mode-only" alt="IntellJ IDEA" height="60" hspace="10" >
+  </a>
+  <a href="https://www.jetbrains.com/idea#gh-dark-mode-only">
+    <img src="./assets/tools/idea-dark.svg#gh-dark-mode-only" alt="IntellJ IDEA" height="60" hspace="10" >
+  </a>
+  <!-- Webstorm -->
+  <a href="https://www.jetbrains.com/webstorm#gh-light-mode-only">
+    <img src="./assets/tools/webstorm-light.svg#gh-light-mode-only" alt="IntellJ IDEA" height="60" hspace="10" >
+  </a>
+  <a href="https://www.jetbrains.com/webstorm#gh-dark-mode-only">
+    <img src="./assets/tools/webstorm-dark.svg#gh-dark-mode-only" alt="IntellJ IDEA" height="60" hspace="10" >
+  </a>
+  <!-- Visual Studio Code -->
+  <a href="https://code.visualstudio.com#gh-light-mode-only">
+    <img src="./assets/tools/vscode-light.svg#gh-light-mode-only" alt="Visual Studio Code" height="60" hspace="10" >
+  </a>
+  <a href="https://code.visualstudio.com#gh-dark-mode-only">
+    <img src="./assets/tools/vscode-dark.svg#gh-dark-mode-only" alt="Visual Studio Code" height="60" hspace="10" >
+  </a>
+  <!-- Linux -->
+  <a href="https://www.linux.org#gh-light-mode-only">
+    <img src="./assets/tools/linux-light.svg#gh-light-mode-only" alt="" height="60" hspace="10" >
+  </a>
+  <a href="https://www.linux.org#gh-dark-mode-only">
+    <img src="./assets/tools/linux-dark.svg#gh-dark-mode-only" alt="Linux" height="60" hspace="10" >
+  </a>
+  <!-- Docker -->
+  <a href="https://www.docker.com">
+    <img src="./assets/tools/docker.svg#gh-light-mode-only" alt="Docker" height="60" hspace="10" >
+  </a>
+  <!-- Figma -->
+  <a href="hhttps://www.figma.com#gh-light-mode-only">
+    <img src="./assets/tools/figma-light.svg#gh-light-mode-only" alt="Figma" height="60" hspace="10" >
+  </a>
+  <a href="https://www.figma.com#gh-dark-mode-only">
+    <img src="./assets/tools/figma-dark.svg#gh-dark-mode-only" alt="Figma" height="60" hspace="10" >
+  </a>
 </p>
 
-
+<br>
