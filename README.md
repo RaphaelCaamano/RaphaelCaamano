@@ -74,3 +74,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
   </p>
 </p>
 
+
+<p align="left">
+  <a href="http://127.0.0.1/">
+    <img width="49.4%" src="https://github-stats-transparent/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak""> 
+<br>
