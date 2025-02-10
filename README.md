@@ -47,6 +47,11 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" />    
 
+<a href="https://github.com/rahul-jha98/github-stats-transparent">
+
+![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
 
 
 
@@ -64,8 +69,4 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
-
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
