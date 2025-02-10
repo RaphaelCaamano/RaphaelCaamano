@@ -69,7 +69,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 <p align="center">
-<!-Visual Studio Code->
+<!Visual Studio Code>
 <a href="https://code.visualstudio.com#gh-light-mode-only">
 <img src="./assets/tools/vscode-light.svg#gh-light-mode-only" alt="Visual Studio Code" height="60" hspace="10" >
 </a>
