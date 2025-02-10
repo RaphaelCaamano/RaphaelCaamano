@@ -70,8 +70,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
  </p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/RitamChakraborty/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
-    <img src="https://raw.githubusercontent.com/RitamChakraborty/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/languages.svg" alt="language-stats" height="200">
+    <img src="https://raw.githubusercontent.com/RaphaelCaamano/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
   </p>
 </p>
 
