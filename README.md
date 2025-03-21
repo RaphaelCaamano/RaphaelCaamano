@@ -76,7 +76,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-caamano-c&theme=holi&layout=compact&hide=jupyter" height="200" />
 
 
 
