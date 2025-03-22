@@ -72,7 +72,4 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-</a>
-<a href="https://github.com/raphaelcaamano/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaelcaamano&layout=compact&langs_count=8&card_width=320" />
-</a>
+
