@@ -74,5 +74,12 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-![value samples - dark](https://github.com/altercation/solarized/raw/master/img/solarized-values-dark.png)
+The Values
+----------
 
+L\*a\*b values are canonical (White D65, Reference D50), other values are
+matched in sRGB space.
+
+    SOLARIZED HEX     16/8 TERMCOL  XTERM/HEX   L*A*B      RGB         HSB
+    --------- ------- ---- -------  ----------- ---------- ----------- -----------
+    base03    #002b36  8/4 brblack  234 #1c1c1c 15 -12 -12   0  43  54 193 100  21
