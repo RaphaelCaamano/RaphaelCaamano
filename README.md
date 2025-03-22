@@ -86,7 +86,6 @@ Font Samples
 Solarized has been designed to handle fonts of various weights and retain
 readability, from the classic Terminus to the beefy Menlo.
 
-![font samples - light](https://github.com/altercation/solarized/raw/master/img/solarized-fontsamples-light.png)
 ![font samples - dark](https://github.com/altercation/solarized/raw/master/img/solarized-fontsamples-dark.png)
 
 Clockwise from upper left: Menlo, Letter Gothic, Terminus, Andale Mono.
