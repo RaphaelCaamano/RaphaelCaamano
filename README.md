@@ -73,3 +73,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ## Connect with me 
 <a href = "https://www.linkedin.com/in/raphael-caamano/" /> <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="linkedin" width="40" height="40"/> </a> </p>
 
+
+
+
+<a href="https://www.linkedin.com/in/emilypmendez/"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/assets/linkedin.png"></a>&nbsp;&nbsp; <a href="https://twitter.com/emilypmendez">
+<a href="mailto:emilypmendez@gmail.com"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/assets/email.png"></a>&nbsp;&nbsp;
