@@ -75,6 +75,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" />
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original-wordmark.svg" alt="css" width="40" height="40"/> </a> <a
+<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" height="40" />
+<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="40" />
 
 
