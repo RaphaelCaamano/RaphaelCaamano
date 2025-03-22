@@ -74,6 +74,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" /><img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" height="40" /><img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="40" />
+<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" /><img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" height="40" /><img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="40" /><img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height="40" />
+
 
 
