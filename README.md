@@ -74,4 +74,4 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="20" />
+<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" />
