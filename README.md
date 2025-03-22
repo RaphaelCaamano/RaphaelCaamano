@@ -70,6 +70,9 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-### Java
 
-[![java dark](https://github.com/altercation/solarized/raw/master/img/screen-java-dark-th.png)](https://github.com/altercation/solarized/raw/master/img/screen-java-dark.png)
+
+
+
+![value samples - dark](https://github.com/altercation/solarized/raw/master/img/solarized-values-dark.png)
+
