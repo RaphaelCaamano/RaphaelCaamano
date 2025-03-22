@@ -70,4 +70,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+### Haskell (Vim)
 
+[![haskell dark](https://github.com/altercation/solarized/raw/master/img/screen-haskell-dark-th.png)](https://github.com/altercation/solarized/raw/master/img/screen-haskell-dark.png)
+[![haskell light](https://github.com/altercation/solarized/raw/master/img/screen-haskell-light-th.png)](https://github.com/altercation/solarized/raw/master/img/screen-haskell-light.png)
