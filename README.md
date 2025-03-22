@@ -80,6 +80,5 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <a href="mailto:emilypmendez@gmail.com"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/assets/email.png"></a>&nbsp;&nbsp;
 
 
-<a href="https://www.linkedin.com/in/raphael-caamano/"><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="linkedin" width="40" height="40"/> </a> </p></a>&nbsp;&nbsp; 
-<a href="mailto:caamano.raphael@gmail.com"><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="linkedin" width="40" height="40"/> </a> </p></a>&nbsp;&nbsp;
-
+<a href="https://www.linkedin.com/in/raphael-caamano/"><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="linkedin" width="40" height="40"/> </a> </p>
+<a href="mailto:caamano.raphael@gmail.com"><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="gmail" width="40" height="40"/> </a> </p>
