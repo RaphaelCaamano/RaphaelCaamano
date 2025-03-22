@@ -76,32 +76,4 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<canvas id="myDonutChart"></canvas>
-
-<script>
-  const ctx = document.getElementById('myDonutChart').getContext('2d');
-  const myChart = new Chart(ctx, {
-    type: 'doughnut',
-    data: {
-      labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple'],
-      datasets: [{
-        label: 'My Dataset',
-        data: [10, 20, 30, 40, 50],
-        backgroundColor: ['red', 'blue', 'yellow', 'green', 'purple'],
-      }]
-    },
-    options: {
-      responsive: true,
-      maintainAspectRatio: false,
-      plugins: {
-        legend: {
-          position: 'top',
-        },
-        title: {
-          display: true,
-          text: 'Donut Chart Example'
-        }
-      }
-    }
-  });
-</script>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
