@@ -80,13 +80,14 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-Font Samples
-------------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
-Solarized has been designed to handle fonts of various weights and retain
-readability, from the classic Terminus to the beefy Menlo.
 
-![font samples - dark](https://github.com/altercation/solarized/raw/master/img/solarized-fontsamples-dark.png)
 
-Clockwise from upper left: Menlo, Letter Gothic, Terminus, Andale Mono.
+
+
+
+
+
+
 
