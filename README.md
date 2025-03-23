@@ -81,6 +81,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-
+<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" alt="Eclipse" width="40" height="40"/> </a>
 
 
