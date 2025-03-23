@@ -57,7 +57,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="40" />
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="40" />
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="40" />
-<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" target="_blank" rel="noreferrer" height="40" />
+<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height="40" />
 
 
 
