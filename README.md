@@ -75,3 +75,5 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+<a href = " https://www.linkedin.com/in/raphael-caamano/ " /> <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height = "49" />
+
