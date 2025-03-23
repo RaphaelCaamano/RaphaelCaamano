@@ -80,13 +80,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-## Connect with me: 
-<a href="https://www.linkedin.com/in/raphael-caamano/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="mail to: caamano.raphael@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a>
-<a href="https://discordapp.com/users/astrowrld7463" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-</a>
