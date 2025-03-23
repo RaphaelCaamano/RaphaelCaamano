@@ -78,7 +78,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 </a>
 
 
-
+<a href="https://www.linkedin.com/in/raphael-caamano/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/> </a>
 
 <a href="mailto:caamano.raphael@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
