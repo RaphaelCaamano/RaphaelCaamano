@@ -80,3 +80,10 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+## 📫 How to reach me: 
+<a href="https://www.linkedin.com/in/joshua-j-holguin/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:joshuaholguin0611@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
