@@ -56,11 +56,11 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> 
 
 
-<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" height="40" />
-<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="40" />
-<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="40" />
-<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="40" />
-<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height="40" />
+<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" target="_blank" height="40" />
+<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" target="_blank" height="40" />
+<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" target="_blank" height="40" />
+<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" target="_blank" height="40" />
+<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" target="_blank" height="40" />
 
 ## Certifications
 
