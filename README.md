@@ -53,6 +53,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" height="40" />
+<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="40" />
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="40" />
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="40" />
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height="40" />
