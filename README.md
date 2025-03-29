@@ -13,7 +13,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 ## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-659ad3.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-03599c.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-953cad.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-004482.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-264de4.svg?style=for-the-badge&logo=css&logoColor=white) 
