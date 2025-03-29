@@ -35,6 +35,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-0d141e?style=for-the-badge&logo=HackerRank&logoColor=00ea64)
 
+![CSS](https://img.shields.io/badge/css3-264de4.svg?style=for-the-badge&logo=css&logoColor=white) 
 
 
 
