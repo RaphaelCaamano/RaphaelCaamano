@@ -94,4 +94,5 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="125" align="right" alt="CSS Logo"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="40" height="40"/> </a>
+
