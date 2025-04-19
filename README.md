@@ -100,8 +100,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-  ![Raphael's Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjoy01&theme=holi&layout=compact)
-</details>
+
 
 
 
