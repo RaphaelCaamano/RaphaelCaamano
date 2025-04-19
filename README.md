@@ -34,7 +34,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-white?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%23323330.svg?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
