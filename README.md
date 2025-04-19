@@ -33,7 +33,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 ![Next JS](https://img.shields.io/badge/Next-838485?style=for-the-badge&logo=next.js&logoColor=black)   
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next-%23ffffff.svg?style=for-the-badge&logo=next.js&logoColor=black)
 
 
 
