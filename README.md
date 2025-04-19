@@ -33,7 +33,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Next JS](https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%23323330.svg?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-0d141e?style=for-the-badge&logo=HackerRank&logoColor=00ea64)
 
 
