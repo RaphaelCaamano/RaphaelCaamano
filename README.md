@@ -48,6 +48,9 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 ## Languages and Tools
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> 
+
+
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="45" height="45"/> </a>
@@ -64,11 +67,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="40" />
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" height="40" />
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height="40" />
-
-
-
-
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> 
 
 
 
