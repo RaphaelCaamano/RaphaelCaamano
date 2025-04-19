@@ -94,3 +94,15 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+
+
+
+
+
+ ![Amber's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjoy01&theme=nightowl&show_icons=true)  
+
+  ![Amber's Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjoy01&theme=nightowl&layout=compact)
+</details>
+
+
+
