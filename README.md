@@ -26,7 +26,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Anaconda](https://img.shields.io/badge/Anaconda-43b049.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Spyder](https://img.shields.io/badge/spyder-ffffff.svg?style=for-the-badge&logo=spyderide&logoColor=8c0000)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Eclipse](https://img.shields.io/badge/Eclipse-2c2255.svg?style=for-the-badge&logo=Eclipse&logoColor=FE7A16)   
+![Eclipse](https://img.shields.io/badge/Eclipse-2c2255.svg?style=for-the-badge&logo=Eclipse&logoColor=FE7A16)
 ![Codecademy](https://img.shields.io/badge/Codecademy-101630?style=for-the-badge&logo=codecademy&logoColor=FFF0E5)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-3d2d00?style=for-the-badge&logo=git&logoColor=23F05033) 
