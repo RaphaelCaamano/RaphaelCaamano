@@ -103,6 +103,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="40" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="38" height="38"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="38" height="38"/> </a> 
 
 
