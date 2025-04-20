@@ -104,4 +104,5 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-  
+  <a href="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" target="_blank">
+
