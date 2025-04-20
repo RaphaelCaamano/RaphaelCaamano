@@ -101,7 +101,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expressjs/expressjs-original.svg" alt="expressjs" width="38" height="38"/> </a> 
+
 
 
