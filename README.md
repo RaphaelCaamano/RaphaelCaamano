@@ -97,7 +97,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src="https://skillicons.dev/icons?i=spyderide" alt="Spyder IDE" width="40" height="40"/> </a>
+<img src="https://skillicons.dev/icons?i=spyder-ide" alt="Spyder IDE" width="40" height="40"/> </a>
 
 
 
