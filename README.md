@@ -97,7 +97,10 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+<img src="https://skillicons.dev/icons?i=spyder" alt="Spyder" width="40" height="40"/> </a>
 
 
-<img src="https://simpleicons.org/?q=spyder.svg" alt="spyder" width="39" height="39"/> </a> 
+
+
+
 
