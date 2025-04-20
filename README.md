@@ -95,7 +95,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-![W3schools](https://img.shields.io/badge/W3schools-FFF0E5?style=for-the-badge&logo=w3schools&logoColor=1F243A)
+![W3schools](https://img.shields.io/badge/W3schools-FFF0E5?style=for-the-badge&logo=w3schools&logoColor=04aa6d)
 
 
 
