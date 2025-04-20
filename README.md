@@ -88,6 +88,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <a href="https://www.linkedin.com/in/raphael-caamano/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/> </a>
 
+
 <a href="mailto:caamano.raphael@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
 
@@ -103,13 +104,4 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-
-<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" alt="Eclipse" width="40" height="40"/> </a>
-
-<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Eclipse" width="40" height="40"/> </a>
-
-<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="Eclipse" width="40" height="40"/> </a>
   
