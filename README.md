@@ -99,6 +99,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyderide/spyderide-original.svg" alt="spyderide" width="39" height="39"/> </a> 
 
 
 
