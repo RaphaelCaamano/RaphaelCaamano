@@ -99,9 +99,11 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" height="40" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="38" height="38"/> </a> 
+
+
+
+
 
 
 
@@ -110,12 +112,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="40" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="38" height="38"/> </a> 
-
-
-
-
-
-
 
 
 
