@@ -58,7 +58,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="45" height="45"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer">         
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="39" height="39"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/> </a> 
@@ -98,7 +98,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 
 
 
