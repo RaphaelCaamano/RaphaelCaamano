@@ -18,7 +18,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-470137.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-264de4.svg?style=for-the-badge&logo=css&logoColor=white) 
-![HTML](https://img.shields.io/badge/html-red.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![W3schools](https://img.shields.io/badge/W3schools-04aa6d.svg?style=for-the-badge&logo=w3schools&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/linux-%23121011.svg?style=for-the-badge&logo=linux&logoColor=white)
