@@ -39,7 +39,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-0d141e?style=for-the-badge&logo=HackerRank&logoColor=00ea64)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-0b0f19?style=for-the-badge&logo=HuggingFace&logoColor=ffd21e)
-![Zybooks](https://img.shields.io/badge/-Zybooks-23ED8B00?style=for-the-badge&logo=Zybooks&logoColor=white)
+![Zybook](https://img.shields.io/badge/-Zybook-23ED8B00?style=for-the-badge&logo=Zybook&logoColor=white)
 
 
 
