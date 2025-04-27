@@ -74,6 +74,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="40" />
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="40" />
 
+<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/HuggingFace.svg" height="40" />
+
 
 ## Certifications
 
