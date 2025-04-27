@@ -38,7 +38,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-0d141e?style=for-the-badge&logo=HackerRank&logoColor=00ea64)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-172030?style=for-the-badge&logo=HuggingFace&logoColor=ffd21e)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-0b0f19?style=for-the-badge&logo=HuggingFace&logoColor=ffd21e)
 
 
 
