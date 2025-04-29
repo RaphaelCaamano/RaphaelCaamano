@@ -100,6 +100,4 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Handshake-Dark.svg" height="40" />
-
 
