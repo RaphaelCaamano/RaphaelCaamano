@@ -101,8 +101,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-![C](https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" alt="C" width="38" height="38"/> </a>
-![C++](https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="CPP" width="38" height="38"/> </a>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" alt="C" width="38" height="38"/> </a>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="CPP" width="38" height="38"/> </a>
 
 
 
