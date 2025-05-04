@@ -98,14 +98,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-
-
-
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" alt="C" width="38" height="38"/> </a>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="CPP" width="38" height="38"/> </a>
-
-
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-
-
