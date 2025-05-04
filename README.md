@@ -100,7 +100,5 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobedreamweaver/adobedreamweaver-original.svg" alt="adobedreamweaver" width="38" height="38"/> </a>
 
-![Adobe Dreamweaver](https://img.shields.io/badge/adobedreamweaver-470137?style=for-the-badge&logo=adobedreamweaver&logoColor=white) 
 
