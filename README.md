@@ -28,7 +28,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2c2255.svg?style=for-the-badge&logo=Eclipse&logoColor=FE7A16)
 ![Codecademy](https://img.shields.io/badge/Codecademy-101630?style=for-the-badge&logo=codecademy&logoColor=FFF0E5)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-0d141e?style=for-the-badge&logo=HackerRank&logoColor=00ea64)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-3d2d00?style=for-the-badge&logo=git&logoColor=23F05033) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -38,6 +37,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Next JS](https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-0d141e?style=for-the-badge&logo=HackerRank&logoColor=00ea64)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-0b0f19?style=for-the-badge&logo=HuggingFace&logoColor=ffd21e)
 
 
