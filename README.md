@@ -101,4 +101,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+![C](https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg)
+![C++](https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg)
+
+
 
