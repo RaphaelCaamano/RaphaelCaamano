@@ -108,6 +108,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/ huggingface-original.svg" alt="huggingface" width="38" height="38"/> </a>
 
 
 
