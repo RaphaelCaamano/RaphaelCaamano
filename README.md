@@ -98,6 +98,15 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+![Shadcn/ui](https://img.shields.io/badge/shadcnui-%2338B2AC.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+
+
+
+
+
+
+
 
 
 
