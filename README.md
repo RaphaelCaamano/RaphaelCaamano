@@ -100,7 +100,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src="https://raw.githubusercontent.com/tomowang/hugo-theme-tailwind/main/static/logo.svg" height="40" />
 
 
 
