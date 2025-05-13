@@ -99,9 +99,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+![Shadcn](https://img.shields.io/badge/shadcn-%2338B2AC.svg?style=for-the-badge&logo=shadcn&logoColor=white)
 
 
-![Drizzle](https://img.shields.io/badge/drizzle-%2338B2AC.svg?style=for-the-badge&logo=drizzle&logoColor=white)
-
-<img src="https://raw.githubusercontent.com/tomowang/hugo-theme-drizzle/main/static/logo.svg" height="40" />
 
