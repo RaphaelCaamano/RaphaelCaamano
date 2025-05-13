@@ -109,6 +109,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-![Shadcn](https://img.shields.io/badge/shadcn-394aab.svg?style=for-the-badge&logo=shadcn&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-394aab.svg?style=for-the-badge&logo=zustand&logoColor=white)
 
 
