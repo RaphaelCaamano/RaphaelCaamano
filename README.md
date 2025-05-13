@@ -100,6 +100,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+![Tailwind](https://raw.githubusercontent.com/tomowang/hugo-theme-tailwind/main/static/logo.svg?style=for-the-badge&logo=tailwind&logoColor=FE7A16)
 
 
 
