@@ -76,6 +76,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> 
 <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="38" height="38"/> </a>
+<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="40" />
+
 
 ## Certifications
 
@@ -104,8 +106,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="40" />
 
 
 
