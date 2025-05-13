@@ -97,8 +97,11 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+![Drizzle](https://img.shields.io/badge/-Drizzle-0d141e?style=for-the-badge&logo=Drizzle&logoColor=white)
 
 
 
 
-![Drizzle](https://img.shields.io/badge/-Drizzle-0d141e?style=for-the-badge&logo=Drizzle&logoColor=00ea64)
+
+
+
