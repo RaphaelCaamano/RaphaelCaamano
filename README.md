@@ -97,8 +97,10 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-![Drizzle](https://img.shields.io/badge/-Drizzle-0d141e?style=for-the-badge&logo=Drizzle&logoColor=white)
-
+![Drizzle](https://img.shields.io/badge/-Drizzle-0d141e?style=for-the-badge&logo=Drizzle&logoColor=00ea64)
+![Tailwind](https://img.shields.io/badge/-Tailwind-0d141e?style=for-the-badge&logo=Tailwind&logoColor=00ea64)
+![Shadcn](https://img.shields.io/badge/-Shadcn-0d141e?style=for-the-badge&logo=Shadcn&logoColor=00ea64)
+![Zustand](https://img.shields.io/badge/-Zustand-0d141e?style=for-the-badge&logo=Zustand&logoColor=00ea64)
 
 
 
