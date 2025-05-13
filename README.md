@@ -39,7 +39,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-0b0f19?style=for-the-badge&logo=HuggingFace&logoColor=ffd21e)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-17161b?style=for-the-badge&logo=Drizzle&logoColor=c9f850)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%161d2d.svg?style=for-the-badge&logo=tailwind-css&logoColor=16becb)
 ![Shadcn/ui](https://img.shields.io/badge/shadcnui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 
