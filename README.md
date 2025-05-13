@@ -108,7 +108,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Drizzle/Drizzle-original.svg" alt="Drizzle" width="38" height="38"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/TailwindCSS/TailwindCSS-original.svg" alt="TailwindCSS" width="38" height="38"/> </a>
 
 
 
