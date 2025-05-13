@@ -105,10 +105,10 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="40" />
 
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/TailwindCSS/TailwindCSS-original.svg" alt="TailwindCSS" width="38" height="38"/> </a>
 
 
 
