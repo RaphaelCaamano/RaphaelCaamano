@@ -98,7 +98,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 - Michael Deas Legacy Scholarship 
 - Urban Service Award 
 - Honor of Induction
-- Outstanding Leadership Award
 - Dean's List - Fall 2024
 - Student Athlete Senior Award 
 
