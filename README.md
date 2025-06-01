@@ -93,15 +93,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 - W3Schools: Certified HTML Developer
 
 
-## Honors & awards
-
-- Michael Deas Legacy Scholarship 
-- Urban Service Award 
-- Honor of Induction
-- Dean's List - Fall 2024
-- Student Athlete Senior Award 
-
-
 ## Connect with me
 <a href="https://www.linkedin.com/in/raphael-caamano/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/> </a>
