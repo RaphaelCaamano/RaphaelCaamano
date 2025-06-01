@@ -109,4 +109,9 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-https://www.shutterstock.com/shutterstock/videos/1057300891/preview/stock-footage-technology-background-with-abstract-digital-code-motion-software-development-process-concept-in-a.webm
+
+
+
+
+<img src="https://www.shutterstock.com/shutterstock/videos/1057300891/preview/stock-footage-technology-background-with-abstract-digital-code-motion-software-development-process-concept-in-a.webm"/> </a>
+
