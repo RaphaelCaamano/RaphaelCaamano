@@ -55,7 +55,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 ## Languages and Tools
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> <img width="39.4%" src = "https://github.com/user-attachments/assets/c2afa62f-5ae9-4b26-a545-4c42a4b0b0b6" /> <img width="19.4%" src = "https://github.com/user-attachments/assets/d5d04dea-bf40-4979-83a8-af123688b67f" />
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> <img width="39.4%" src = "https://github.com/user-attachments/assets/c2afa62f-5ae9-4b26-a545-4c42a4b0b0b6" /> <img width="22.4%" src = "https://github.com/user-attachments/assets/d5d04dea-bf40-4979-83a8-af123688b67f" />
 
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
