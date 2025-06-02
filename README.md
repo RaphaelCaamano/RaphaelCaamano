@@ -55,7 +55,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 ## Languages and Tools
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> <img width="37.4%" src = "https://github.com/user-attachments/assets/5e08bcc4-8270-40e8-b02a-c4a80f2bbc8d" /> <img width="22.4%" src = "https://github.com/user-attachments/assets/5739628d-d372-40da-a132-56cf0c41b64b" />
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> <img width="36.4%" src = "https://github.com/user-attachments/assets/5e08bcc4-8270-40e8-b02a-c4a80f2bbc8d" /> <img width="22.4%" src = "https://github.com/user-attachments/assets/5739628d-d372-40da-a132-56cf0c41b64b" />
 
 
 
