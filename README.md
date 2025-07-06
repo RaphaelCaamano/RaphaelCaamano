@@ -102,10 +102,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-
-
-
-
-![Forage](https://img.shields.io/badge/forage-%2302262B.svg?style=for-the-badge&logo=forage&logoColor=white)
-
-
