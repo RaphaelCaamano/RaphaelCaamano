@@ -70,14 +70,14 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="38"/> </a> 
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="28" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="38" height="38"/> </a> 
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" height="28" />
+<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" height="18" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="38" height="38"/> </a> 
-<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="28" />
+<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="18" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="38" height="38"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="38"/> </a> 
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="28" />
+<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="18" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="38" height="38"/> </a>
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="28" />
+<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="18" />
 
 
 ## Certifications
