@@ -95,5 +95,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/VSCode-Dark.svg" alt="vscode" width="38" height="38"/> </a> 
