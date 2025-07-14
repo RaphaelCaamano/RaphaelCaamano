@@ -102,10 +102,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-00A162?style=for-the-badge&logo=SQL&logoColor=white)
-
-
