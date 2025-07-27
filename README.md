@@ -106,9 +106,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="37" height="37"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="38" height="38"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-
-
