@@ -41,7 +41,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Drizzle](https://img.shields.io/badge/-Drizzle-17161b?style=for-the-badge&logo=Drizzle&logoColor=c9f850)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-161d2d.svg?style=for-the-badge&logo=tailwind-css&logoColor=16becb)
 ![Shadcn/ui](https://img.shields.io/badge/shadcnui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
-
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 
