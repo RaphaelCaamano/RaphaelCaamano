@@ -98,7 +98,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <a href="mailto:caamano.raphael@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
 
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Github/Github-original.svg" alt="Github" width="40" height="38"/> </a> 
-
