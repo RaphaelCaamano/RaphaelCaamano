@@ -100,4 +100,5 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Github/Github-original.svg" alt="Github" width="40" height="38"/> </a> 
 
