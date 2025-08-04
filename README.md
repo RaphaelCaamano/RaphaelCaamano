@@ -27,7 +27,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Spyder](https://img.shields.io/badge/spyder-ffffff.svg?style=for-the-badge&logo=spyderide&logoColor=8c0000)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2c2255.svg?style=for-the-badge&logo=Eclipse&logoColor=FE7A16)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-101630?style=for-the-badge&logo=codecademy&logoColor=FFF0E5)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-3d2d00?style=for-the-badge&logo=git&logoColor=23F05033) 
@@ -67,7 +66,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="39" height="38"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="38"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="38"/> </a> 
-<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" height="38" />
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="38" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="38" height="38"/> </a> 
 <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" height="38" />
