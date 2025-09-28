@@ -51,33 +51,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
     <img width="47.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak""> 
 <br>
 
-<p align="left">
-  <a href="http://127.0.0.1/">
-    <td width="50%">
-      <h3 align="center"><strong>Project</strong></h3>
-      <p align="center">
-        <a href="https://github-readme-stats.vercel.app/api?username=raphaelcaamano/storyblok-mcp-server">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/??user=raphaelcaamano&theme=holi-theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-          
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
-
-
-
-
-
 
 ## Languages and Tools
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> <img width="36.4%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="22.4%" src = "https://github.com/user-attachments/assets/5739628d-d372-40da-a132-56cf0c41b64b" />
