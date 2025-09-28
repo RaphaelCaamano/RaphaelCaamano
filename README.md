@@ -50,6 +50,9 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=holi">
     <img width="47.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak""> 
 <br>
+      </a>
+   </p>
+</td>
   <p align="center">
   <a href="http://127.0.0.1/">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=CRUD-REST-API&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
