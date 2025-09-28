@@ -51,6 +51,13 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
     <img width="47.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak""> 
 <br>
 
+  <p align="left">
+  <a href="http://127.0.0.1/">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=CRUD-REST-API&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
+    <img width="47.8%" src="https://github-contributor-stats.vercel.app/api?username=raphaelcaamano&limit=2&theme=holi&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" /> 
+<br>
+
+
 
 ## Languages and Tools
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> <img width="36.4%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="22.4%" src = "https://github.com/user-attachments/assets/5739628d-d372-40da-a132-56cf0c41b64b" />
@@ -95,20 +102,4 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <a href="mailto:caamano.raphael@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
 
-
-
-
-   
-
-
-
-
-
-
-
-  <p align="left">
-  <a href="http://127.0.0.1/">
-    <img height="47.8%" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=CRUD-REST-API&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
-    <img width="47.8%" src="https://github-contributor-stats.vercel.app/api?username=raphaelcaamano&limit=2&theme=holi&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" /> 
-<br>
 
