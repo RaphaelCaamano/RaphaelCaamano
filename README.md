@@ -114,7 +114,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-
  <td width="50%">
       <p align="center">
         <a href="https://github.com/Kiran1689/storyblok-mcp-server">
@@ -129,7 +128,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
   <a href="http://127.0.0.1/">
 <p align="center">
   <a href="https://github.com/=raphaelcaamano/storyblok-mcp-server">
-    <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=storyblok-mcp-server&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
+    <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=CRUD-REST-API&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
 <br>
 
 
