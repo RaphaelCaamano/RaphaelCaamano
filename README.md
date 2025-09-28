@@ -54,7 +54,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <p align="left">
   <a href="http://127.0.0.1/">
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Project</strong></h3>
       <p align="center">
         <a href="https://github.com/raphaelcaamano/storyblok-mcp-server">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/??user=raphaelcaamano&theme=holi-theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
