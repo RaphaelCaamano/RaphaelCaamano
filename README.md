@@ -144,8 +144,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <p align="left">
   <a href="http://127.0.0.1/">
     <img align="center" width="470" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&repo=storyblok-mcp-server&theme=holi&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-
-    <img width="47.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak""> 
+    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=raphaelcaamano&limit=2&theme=holi&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
 <br>
 
 
