@@ -83,13 +83,10 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="38" height="38"/> </a>
 <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="38" />
 
-
-<!--Contribution Graph-->
-## 📈 Graphs</h2>
+## 📈 Graphs
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelcaamano&bg_color=030314&&color=5ea9eb&line=5ea9eb&point=ffffff&area=false&hide_border=false" border-radius="15">
 </div>
-
 
 ## Certifications
 
