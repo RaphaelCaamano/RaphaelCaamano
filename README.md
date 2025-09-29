@@ -89,7 +89,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <!--Contribution Graph-->
 ## 📈 Graphs</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelcaamano&bg_color=030314&&color=5ea9eb&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelcaamano&bg_color=030314&&color=5ea9eb&line=5ea9eb&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 
