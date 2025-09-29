@@ -57,6 +57,15 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
  <br>
 
 
+
+<!--Contribution Graph-->
+## 📈 Graphs</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelcaamano&bg_color=030314&&color=5ea9eb&line=5ea9eb&point=ffffff&area=false&hide_border=false" border-radius="15">
+</div>
+
+
+
 ## Languages and Tools
 <p align="center">
 <img class="img" width="36.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> <img width="37.4%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="22.6%" src = "https://github.com/user-attachments/assets/5739628d-d372-40da-a132-56cf0c41b64b" />
@@ -83,12 +92,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="38" height="38"/> </a>
 <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="38" />
 
-
-<!--Contribution Graph-->
-## 📈 Graphs</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelcaamano&bg_color=030314&&color=5ea9eb&line=5ea9eb&point=ffffff&area=false&hide_border=false" border-radius="15">
-</div>
 
 
 ## Certifications
