@@ -63,7 +63,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="37" height="37"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="43" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="43" height="39"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="45" height="45"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
