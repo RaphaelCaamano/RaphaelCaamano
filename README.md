@@ -84,6 +84,19 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="38" />
 
 
+
+
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&theme=holi&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+
+
+
+
 ## Certifications
 
 - Bloomberg Market Concepts 
