@@ -11,7 +11,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 💪🏼 #tryingmybest is my resilience
 
 
-
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-394aab.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599c.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,7 +41,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-161d2d.svg?style=for-the-badge&logo=tailwind-css&logoColor=16becb)
 ![Shadcn/ui](https://img.shields.io/badge/shadcnui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-<p align="center">
+
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 <p align="center">
@@ -83,10 +82,12 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="38" height="38"/> </a>
 <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="38" />
 
+
 ## 📈 Graphs
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelcaamano&bg_color=030314&&color=5ea9eb&line=5ea9eb&point=ffffff&area=false&hide_border=false" border-radius="15">
 </div>
+
 
 ## Certifications
 
@@ -101,7 +102,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ## Connect with me
 <a href="https://www.linkedin.com/in/raphael-caamano/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/> </a>
-
 
 <a href="mailto:caamano.raphael@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
