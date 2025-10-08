@@ -91,7 +91,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 </div>
 
 
-## Certifications
+## 🏆 Certifications
 
 - Bloomberg Market Concepts 
 - Bloomberg Finance Fundamentals 
