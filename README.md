@@ -4,7 +4,7 @@ I'm a transfer student in Lehman College, majoring in Bachelor of Science in Com
 
 Tech Enthusiast who takes opportunities to further enhance my programming skills through taking more challenging coursework and projects that would bring me to an even deeper understanding of the theoretical underpinnings to form the basis for modern computing technologies.
 
-👨‍💻 Aspiring Aspiring IT and Cybersecurity Analyst with some ambition and determination in technology                                                 
+👨‍💻 Aspiring IT and Cybersecurity Analyst with some ambition and determination in technology                                                 
         🏋️‍♂️ Workout in the gym, swimming, play video games, using my phone and laptop                                                                                                               
 🏊‍♂️ ColorStack x Computer Science Club, Urban Male Leadership Program, Swimming and Diving Team, ALPFA                                               
 🎧 I used technology my whole life                                                                                                                                         
