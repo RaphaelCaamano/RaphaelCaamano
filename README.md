@@ -1,6 +1,6 @@
 ## Hi, I'm Raphael Caamano
 
-I'm a transfer student in Lehman College, majoring in Bachelor of Science in Computer Science
+I'm a transfer student in Lehman College, majoring in Bachelor of Science in Computer Information Systems
 
 Tech Enthusiast who takes opportunities to further enhance my programming skills through taking more challenging coursework and projects that would bring me to an even deeper understanding of the theoretical underpinnings to form the basis for modern computing technologies.
 
