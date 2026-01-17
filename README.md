@@ -93,6 +93,11 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 ## 🏆 Certifications
 
+- Bloomberg Spreadsheet Analysis 
+- Hugging Face: AI Agents Fundamentals 
+- Vercel: Next.js App Router Fundamentals 
+- Vercel: Next.js Pages Router Fundamentals 
+- Vercel: Next.js SEO Fundamentals 
 - Bloomberg Market Concepts 
 - Bloomberg Finance Fundamentals 
 - Bloomberg Environmental Social Governance
