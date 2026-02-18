@@ -1,3 +1,5 @@
+![download](https://github.com/user-attachments/assets/f2dc24d8-4d6f-44fc-88f6-00a4da950dc3)
+
 ## Hi, I'm Raphael Caamano
 
 I'm a transfer student in Lehman College, majoring in Computer Information Systems
