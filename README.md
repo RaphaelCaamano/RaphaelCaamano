@@ -1,5 +1,3 @@
-![giphy](https://github.com/user-attachments/assets/6ebb0993-b4f2-4602-befb-f5f0a2f9040a)
-
 ## Hi, I'm Raphael Caamano
 
 I'm a transfer student in Lehman College, majoring in Computer Information Systems
