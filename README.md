@@ -88,6 +88,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="38" height="38"/> </a>
 <img src ="https://github.com/user-attachments/assets/d596889c-03b4-4d23-b1cd-c25bd3f81f51" alt="image" width="38" height="38"/>
 <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="38" />
+<img src ="https://github.com/user-attachments/assets/61f7fa1f-664c-4b53-93ca-52a09a6b3733" alt="image" width="38" height="38"/>
 
 
 ## 📈 Graphs
@@ -117,13 +118,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 <a href="mailto:caamano.raphael@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
-
-
-
-
-
-
-<img src ="https://github.com/user-attachments/assets/61f7fa1f-664c-4b53-93ca-52a09a6b3733" alt="image" width="38" height="38"/>
 
 
 
