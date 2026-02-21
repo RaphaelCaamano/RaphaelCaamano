@@ -119,7 +119,5 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src ="https://github.com/user-attachments/assets/e32cc426-b7ba-4e2c-bdf6-7e8f40fcd5c9" alt="image" width="40" height="40"/>
-
-
+<img src ="https://github.com/user-attachments/assets/b63d92f8-ca65-4d0e-8241-f1f9cd0515b2" alt="image" width="40" height="40"/>
 
