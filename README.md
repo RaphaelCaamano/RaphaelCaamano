@@ -74,7 +74,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="38"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="39" height="38"/> </a> 
-<img src ="https://github.com/user-attachments/assets/b63d92f8-ca65-4d0e-8241-f1f9cd0515b2" alt="image" width="50" height="50"/>
+<img src ="https://github.com/user-attachments/assets/b63d92f8-ca65-4d0e-8241-f1f9cd0515b2" alt="image" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="38"/> </a> 
 <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="38" />
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="38" />
