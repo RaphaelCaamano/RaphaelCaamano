@@ -72,6 +72,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src = "https://github.com/user-attachments/assets/6e37a38c-deb2-49bd-a64c-a190eb979351" alt="image" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="38"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="39" height="38"/> </a> 
 <img src ="https://github.com/user-attachments/assets/c76f3ffc-6a3c-4e61-bd94-94087f860a2e" alt="image" width="36" height="36"/>
@@ -119,8 +120,5 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <a href="mailto:caamano.raphael@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
 
-
-
-<img src = "https://github.com/user-attachments/assets/6e37a38c-deb2-49bd-a64c-a190eb979351" alt="image" width="48" height="48"/>
 
 
