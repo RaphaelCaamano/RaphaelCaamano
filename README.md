@@ -121,6 +121,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-
-
