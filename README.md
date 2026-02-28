@@ -122,3 +122,12 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
+
+
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/d0554356-f3c7-477e-b868-ff1fac85f7aa" />
+
+<img src="https://github.com/user-attachments/assets/d0554356-f3c7-477e-b868-ff1fac85f7aa" alt="linux" width="40" height="40"/> </a> 
+
+
+
