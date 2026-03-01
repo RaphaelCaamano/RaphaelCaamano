@@ -52,9 +52,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 ## <img width="26" height="30" alt="image" src="https://github.com/user-attachments/assets/6f63b0a0-14ed-4662-900a-9a634fa6b056" /> Languages and Tools
 <p align="center">
-<img width="37.4%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="20.4%" src = "https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" /> <img width="26.6%" src = "https://github.com/user-attachments/assets/d8271830-836a-49a8-9a0e-e13780a90d80" />
-
-        
+<img width="37.4%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="20.4%" src = "https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" /> <img width="26.6%" src = "https://github.com/user-attachments/assets/86ab078b-2a52-4bb5-a0cb-f0e80e7fa9f1" />
+ 
         
 <img width="22.6%" src = "https://github.com/user-attachments/assets/5739628d-d372-40da-a132-56cf0c41b64b" />
 
