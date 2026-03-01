@@ -112,12 +112,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <a href="mailto:caamano.raphael@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
 
-
-
-
-
-
-![Microsoft](https://img.shields.io/badge/microsoft-0033a1?style=for-the-badge&logo=microsoft&logoColor=white)
-
-
-
