@@ -54,14 +54,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <p align="center">
 <img width="37.4%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="20.4%" src = "https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" /> <img width="22.6%" src = "https://github.com/user-attachments/assets/5739628d-d372-40da-a132-56cf0c41b64b" />
 
-
-
-
-<img width="42.6%" src = "https://github.com/user-attachments/assets/51f3c48c-d6f3-435f-b0f7-83780e316887" />
-
-
-
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="39" height="38"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" width="40" height="40"/> 
