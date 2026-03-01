@@ -117,8 +117,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-![Forage](https://img.shields.io/badge/forage-cbf746?style=for-the-badge&logo=forage&logoColor=052326)
 
+![Bloomberg](https://img.shields.io/badge/bloomberg-cbf746?style=for-the-badge&logo=bloomberg&logoColor=052326)
 
 
 
