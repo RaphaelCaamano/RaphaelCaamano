@@ -52,7 +52,11 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 ## <img width="26" height="30" alt="image" src="https://github.com/user-attachments/assets/6f63b0a0-14ed-4662-900a-9a634fa6b056" /> Languages and Tools
 <p align="center">
-<img width="37.4%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="20.4%" src = "https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" /> <img width="22.6%" src = "https://github.com/user-attachments/assets/5739628d-d372-40da-a132-56cf0c41b64b" />
+<img width="37.4%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="20.4%" src = "https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" /> <img width="22.6%" src = "https://github.com/user-attachments/assets/d8271830-836a-49a8-9a0e-e13780a90d80" />
+
+        
+        
+<img width="22.6%" src = "https://github.com/user-attachments/assets/5739628d-d372-40da-a132-56cf0c41b64b" />
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="39" height="38"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -110,15 +114,5 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 <a href="mailto:caamano.raphael@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
-
-
-
-
-
-<img width="22.6%" src = "https://github.com/user-attachments/assets/d8271830-836a-49a8-9a0e-e13780a90d80" />
-
-
-
-
 
 
