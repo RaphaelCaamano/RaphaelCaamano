@@ -118,7 +118,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-![QGIS](https://img.shields.io/badge/handshake-cbf746&style=for-the-badge&logo=handshake&logoColor=052326)
+![Handshake](https://img.shields.io/badge/handshake-cbf746?style=for-the-badge&logo=handshake&logoColor=052326)
+![Spyder](https://img.shields.io/badge/spyder-ffffff.svg?style=for-the-badge&logo=spyderide&logoColor=8c0000)
 
 
 
