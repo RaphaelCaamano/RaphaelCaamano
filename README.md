@@ -52,7 +52,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 ## <img width="26" height="30" alt="image" src="https://github.com/user-attachments/assets/6f63b0a0-14ed-4662-900a-9a634fa6b056" /> Languages and Tools
 <p align="center">
-<img width="37.4%" src = "https://github.com/user-attachments/assets/ee39a604-2ba4-42c6-93c9-e65217a0b47b" /> <img width="37.4%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="22.6%" src = "https://github.com/user-attachments/assets/5739628d-d372-40da-a132-56cf0c41b64b" /> <img width="20.3%" src = "https://github.com/user-attachments/assets/d3e636c3-6876-41a6-979c-4e13eb3c9bd1" />
+<img width="35.4%" src = "https://github.com/user-attachments/assets/ee39a604-2ba4-42c6-93c9-e65217a0b47b" /> <img width="37.4%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="22.6%" src = "https://github.com/user-attachments/assets/5739628d-d372-40da-a132-56cf0c41b64b" /> <img width="20.3%" src = "https://github.com/user-attachments/assets/d3e636c3-6876-41a6-979c-4e13eb3c9bd1" />
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="39" height="38"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
