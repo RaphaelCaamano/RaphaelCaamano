@@ -57,7 +57,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-<img width="22.6%" src = "https://github.com/user-attachments/assets/51f3c48c-d6f3-435f-b0f7-83780e316887" />
+<img width="42.6%" src = "https://github.com/user-attachments/assets/51f3c48c-d6f3-435f-b0f7-83780e316887" />
 
 
 
