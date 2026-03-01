@@ -112,3 +112,13 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
 
 
+
+
+
+<img width="22.6%" src = "https://github.com/user-attachments/assets/d8271830-836a-49a8-9a0e-e13780a90d80" />
+
+
+
+
+
+
