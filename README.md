@@ -113,12 +113,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
 
 
-
-
-
-
-
-![Bloomberg](https://img.shields.io/badge/bloomberg-cbf746?style=for-the-badge&logo=bloomberg&logoColor=052326)
-
-
-
