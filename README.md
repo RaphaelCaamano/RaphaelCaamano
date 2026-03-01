@@ -39,9 +39,9 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![Next JS](https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-00273f.svg?style=for-the-badge&logo=typescript&logoColor=007acc)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-161d2d.svg?style=for-the-badge&logo=tailwind-css&logoColor=16becb)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-0b0f19?style=for-the-badge&logo=HuggingFace&logoColor=ffd21e)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-17161b?style=for-the-badge&logo=Drizzle&logoColor=c9f850)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-161d2d.svg?style=for-the-badge&logo=tailwind-css&logoColor=16becb)
 ![Shadcn/ui](https://img.shields.io/badge/shadcnui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 
