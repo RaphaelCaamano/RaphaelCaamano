@@ -42,6 +42,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-0b0f19?style=for-the-badge&logo=HuggingFace&logoColor=ffd21e)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-17161b?style=for-the-badge&logo=Drizzle&logoColor=c9f850)
 ![Shadcn/ui](https://img.shields.io/badge/shadcnui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Handshake](https://img.shields.io/badge/handshake-cbf746?style=for-the-badge&logo=handshake&logoColor=052326)
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 <p align="center">
@@ -110,17 +111,4 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 <a href="mailto:caamano.raphael@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
-
-
-
-
-
-
-
-
-![Handshake](https://img.shields.io/badge/handshake-cbf746?style=for-the-badge&logo=handshake&logoColor=052326)
-![Spyder](https://img.shields.io/badge/spyder-ffffff.svg?style=for-the-badge&logo=spyderide&logoColor=8c0000)
-
-
-
 
