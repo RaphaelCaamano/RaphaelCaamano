@@ -112,13 +112,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <a href="mailto:caamano.raphael@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
 
-
-
-
-
-
-![Zybooks](https://img.shields.io/badge/zybooks-cbf746?style=for-the-badge&logo=zybooks&logoColor=052326)
-
-
-
-
