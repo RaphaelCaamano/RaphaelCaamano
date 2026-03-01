@@ -117,7 +117,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 
 
-![CUNY](https://img.shields.io/badge/cuny-0033a1?style=for-the-badge&logo=cuny&logoColor=white)
+![Microsoft](https://img.shields.io/badge/microsoft-0033a1?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
 
