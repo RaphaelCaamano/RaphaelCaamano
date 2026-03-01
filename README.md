@@ -112,3 +112,13 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <a href="mailto:caamano.raphael@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
 
+
+
+
+
+
+![Forage](https://img.shields.io/badge/forage-cbf746?style=for-the-badge&logo=forage&logoColor=052326)
+
+
+
+
