@@ -112,3 +112,14 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a>
 
 
+
+
+
+
+
+
+![QGIS](https://img.shields.io/badge/handshake-%2393b023?&style=for-the-badge&logo=handshake&logoColor=white)
+
+
+
+
