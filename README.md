@@ -49,7 +49,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <p align="center">
   <a href="http://127.0.0.1/">
     <img width="50.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak"">  
-<br>
 <p align="center">
   <a href="http://127.0.0.1/">
     <img width="50.8%" src="https://github-contributor-stats.vercel.app/api?username=raphaelcaamano&limit=2&theme=holi&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" />
