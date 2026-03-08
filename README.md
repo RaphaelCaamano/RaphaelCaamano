@@ -109,3 +109,15 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <a href="https://www.linkedin.com/in/raphael-caamano/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/> </a>
 
+
+
+
+
+
+
+
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
+
+
+
+
