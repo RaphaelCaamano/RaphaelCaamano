@@ -105,8 +105,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 - Bloomberg Spreadsheet Analysis
 
 
-## Connect with me
+## <img width="26" height="30" alt="image" src="https://github.com/user-attachments/assets/7e23a190-6b19-4ab9-bfb6-fd1015019d26" /> Connect with me
 <a href="https://www.linkedin.com/in/raphael-caamano/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/> </a>
-
 
