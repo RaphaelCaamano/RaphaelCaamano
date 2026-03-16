@@ -123,6 +123,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <a href="http://127.0.0.1/">
 <img width="39.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> 
 <a href="http://127.0.0.1/">
-<img width="58.7%" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=CRUD-REST-API&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
+<img width="57.7%" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=CRUD-REST-API&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
 <br>
 
