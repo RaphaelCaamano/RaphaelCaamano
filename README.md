@@ -112,17 +112,3 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ## Connect with me
 <a href="https://www.linkedin.com/in/raphael-caamano/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/> </a>
-
-
-
-
-
-
-
-<p align="center">
-<a href="http://127.0.0.1/">
-<img width="39.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> 
-<a href="http://127.0.0.1/">
-<img width="57.7%" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=CRUD-REST-API&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
-<br>
-
