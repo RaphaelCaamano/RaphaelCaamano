@@ -58,7 +58,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 <p align="center">
 <img width="40.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> 
-<img width="57.7%" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=CRUD-REST-API&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
+<img width="58.7%" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=CRUD-REST-API&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
 
         
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="39" height="38"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
