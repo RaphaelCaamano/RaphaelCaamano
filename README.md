@@ -57,6 +57,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img width="39.7%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="21.4%" src = "https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" /> <img width="37.7%" src = "https://github.com/user-attachments/assets/f4bd76e8-6362-46c1-85db-02189470edd4" />
 
 <p align="center">
+<img class="img" width="36.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="39" height="38"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="54"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -84,9 +85,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 <img src ="https://github.com/user-attachments/assets/d596889c-03b4-4d23-b1cd-c25bd3f81f51" alt="image" width="38" height="38"/>
 <img src ="https://github.com/user-attachments/assets/61f7fa1f-664c-4b53-93ca-52a09a6b3733" alt="image" width="38" height="38"/>
 
-<img class="img" width="36.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> 
-
-
 ## 📈 Graphs
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelcaamano&bg_color=030314&&color=5ea9eb&line=5ea9eb&point=ffffff&area=false&hide_border=false" border-radius="15">
@@ -111,19 +109,5 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ## Connect with me
 <a href="https://www.linkedin.com/in/raphael-caamano/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/> </a>
-
-
-
-
-
-
-
-
-
-
-
-<br>
-<p align="center">
-<img class="img" width="36.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> 
 
 
