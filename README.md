@@ -4,7 +4,7 @@
 
 I'm a transfer student in Lehman College, majoring in Computer Information Systems
 
-Tech Enthusiast who takes opportunities to further enhance my programming skills through taking more challenging coursework and projects that would bring me to an even deeper understanding of the theoretical underpinnings to form the basis for modern computing technologies.
+Tech Enthusiast who takes opportunities to further enhance my programming skills through taking more challenging coursework and projects that would bring me to an even deeper understanding of the theoretical underpinnings to form the basis for modern computing technologies.  
 
 ## About Me
 
@@ -13,6 +13,8 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 🏊‍♂️ ColorStack x Computer Science Club, Urban Male Leadership Program, Swimming and Diving Team, ALPFA, FLG                                               
 🎧 I used technology my whole life                                                                                                                                         
 💪🏼 #tryingmybest is my resilience
+
+ •   •
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-394aab.svg?style=for-the-badge&logo=c&logoColor=white)
