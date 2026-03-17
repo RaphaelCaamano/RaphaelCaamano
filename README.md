@@ -14,8 +14,6 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 🎧 I used technology my whole life                                                                                                                                         
 💪🏼 #tryingmybest is my resilience
 
- •   •
-
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-394aab.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
