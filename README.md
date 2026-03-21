@@ -2,13 +2,11 @@
 
 ## Hi, I'm Raphael Caamano
 
-I'm a transfer student in Lehman College, majoring in Computer Information Systems. 
-
-Tech Enthusiast who takes opportunities to further enhance my programming skills through taking more challenging coursework and projects that would bring me to an even deeper understanding of the theoretical underpinnings to form the basis for modern computing technologies.  
+I'm a transfer student in Lehman College, majoring in Computer Information Systems. Tech Enthusiast who takes opportunities to further enhance my programming skills through taking more challenging coursework and projects that would bring me to an even deeper understanding of the theoretical underpinnings to form the basis for modern computing technologies.  
 
 ## About
 
-- My academic pursuits started with an Associate's Degree in Business Administration, with a concentration in Computer Programming at Bronx Community College. Not only did it give me a firm grounding in the basics that constitute the study of business, but it also gave me a technical skill set for software solution design. I went on to achieve a Bachelor's Degree in Computer Information Systems at Lehman College, broadening my knowledge in database management, microcomputer architecture, and spreadsheet analysis.
+My academic pursuits started with an Associate's Degree in Business Administration, with a concentration in Computer Programming at Bronx Community College. Not only did it give me a firm grounding in the basics that constitute the study of business, but it also gave me a technical skill set for software solution design. I went on to achieve a Bachelor's Degree in Computer Information Systems at Lehman College, broadening my knowledge in database management, microcomputer architecture, and spreadsheet analysis.
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-394aab.svg?style=for-the-badge&logo=c&logoColor=white)
