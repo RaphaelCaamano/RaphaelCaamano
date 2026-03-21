@@ -114,3 +114,28 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 ## Connect with me
 <a href="https://www.linkedin.com/in/raphael-caamano/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/> </a>
+
+
+
+
+
+
+
+
+
+
+
+
+- 👨‍💻 Aspiring Cybersecurity and IT Professional with some ambition and determination in technology                                                 
+- 🏋️‍♂️ Workout in the gym, swimming, play video games, using my phone and laptop                                                                                                               
+- 🏊‍♂️ ColorStack x Computer Science Club, Urban Male Leadership Program, Swimming and Diving Team, ALPFA, FLG                                               
+- 🎧 I used technology my whole life                                                                                                                                         
+- 💪🏼 #tryingmybest is my resilience
+
+
+
+
+
+
+
+  
