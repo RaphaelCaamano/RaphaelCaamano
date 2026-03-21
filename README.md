@@ -89,22 +89,6 @@ My educational journey began with an Associate's Degree in Business Administrati
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelcaamano&bg_color=030314&&color=5ea9eb&line=5ea9eb&point=ffffff&area=false&hide_border=false" border-radius="15">
 </div>
 
-
-## 🏆 Certifications
- 
-- Bloomberg Market Concepts 
-- Bloomberg Finance Fundamentals 
-- Bloomberg Environmental Social Governance
-- AIG - Shields Up: Cybersecurity Job Simulation
-- JPMorgan Chase & Co. - Software Engineering Lite Job Simulation
-- W3Schools: Certified HTML Developer
-- Vercel: Next.js SEO Fundamentals
-- Vercel: Next.js Pages Router Fundamental
-- Vercel: Next.js App Router Fundamentals
-- Hugging Face: AI Agents Fundamentals
-- Bloomberg Spreadsheet Analysis
-
-
 ## Connect with me
 <a href="https://www.linkedin.com/in/raphael-caamano/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/> </a>
