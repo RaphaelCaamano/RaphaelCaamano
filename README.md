@@ -93,3 +93,39 @@ My educational journey began with an Associate's Degree in Business Administrati
 <a href="https://www.linkedin.com/in/raphael-caamano/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/> </a>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 📌 Pinned Repositories
+<img width="58.7%" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=Minesweeper&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
+<img width="58.7%" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=Next.js-Application&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
+<img width="58.7%" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=CRUD-REST-API&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
+<img width="58.7%" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=Next.js-Dashboard&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
