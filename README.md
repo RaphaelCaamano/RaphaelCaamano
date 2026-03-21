@@ -8,11 +8,7 @@ Tech Enthusiast who takes opportunities to further enhance my programming skills
 
 ## About
 
-- 👨‍💻 Aspiring Cybersecurity and IT Professional with some ambition and determination in technology                                                 
-- 🏋️‍♂️ Workout in the gym, swimming, play video games, using my phone and laptop                                                                                                               
-- 🏊‍♂️ ColorStack x Computer Science Club, Urban Male Leadership Program, Swimming and Diving Team, ALPFA, FLG                                               
-- 🎧 I used technology my whole life                                                                                                                                         
-- 💪🏼 #tryingmybest is my resilience
+- My academic pursuits started with an Associate's Degree in Business Administration, with a concentration in Computer Programming at Bronx Community College. Not only did it give me a firm grounding in the basics that constitute the study of business, but it also gave me a technical skill set for software solution design. I went on to achieve a Bachelor's Degree in Computer Information Systems at Lehman College, broadening my knowledge in database management, microcomputer architecture, and spreadsheet analysis.
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-394aab.svg?style=for-the-badge&logo=c&logoColor=white)
