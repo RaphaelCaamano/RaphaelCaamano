@@ -92,3 +92,8 @@ My educational journey began with an Associate's Degree in Business Administrati
   <img src="https://github.com/user-attachments/assets/082993c2-28e1-492d-8cdf-d1bd49308e55" alt="Handshake" width="41" height="41"/> </a>
 
 
+
+
+![SQL](https://img.shields.io/badge/sql-%00758F.svg?style=for-the-badge&logo=sql&logoColor=F29111)
+
+
