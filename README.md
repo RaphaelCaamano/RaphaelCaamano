@@ -52,6 +52,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 <p align="center">
 <img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> <img width="21.7%" src = "https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" /> <img width="37.7%" src = "https://github.com/user-attachments/assets/8dbd6e9f-74ce-48fc-a7f8-9d95a39dfb48" />
 
+## Bronx Community College
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="39" height="38"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="54"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -64,6 +65,8 @@ My educational journey began with an Associate's Degree in Business Administrati
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="38" height="38"/> </a> 
 <img src ="https://github.com/user-attachments/assets/c76f3ffc-6a3c-4e61-bd94-94087f860a2e" alt="image" width="38" height="38"/>
+
+## Lehman College
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a> 
 <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="38" />
 <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="38" />
