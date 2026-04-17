@@ -53,32 +53,6 @@ My educational journey began with an Associate's Degree in Business Administrati
 <img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> 
 <img width="21.7%" src = "https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" /> 
 <img width="37.7%" src = "https://github.com/user-attachments/assets/8dbd6e9f-74ce-48fc-a7f8-9d95a39dfb48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="39" height="38"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="54"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src ="https://github.com/user-attachments/assets/608ee53e-243a-4280-a582-b523a2375541" alt="image" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="45" height="45"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="37" height="37"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<img src = "https://github.com/user-attachments/assets/6e37a38c-deb2-49bd-a64c-a190eb979351" alt="image" width="38" height="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="38" height="38"/> </a> 
-<img src ="https://github.com/user-attachments/assets/c76f3ffc-6a3c-4e61-bd94-94087f860a2e" alt="image" width="38" height="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a> 
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="38" />
-<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="38" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="38" height="38"/> </a> 
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="38" height="38"/> </a> 
-<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="38" height="38"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="38" height="38"/> </a> 
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="38" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="38" height="38"/> </a>
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="38" />
-<img src ="https://github.com/user-attachments/assets/d596889c-03b4-4d23-b1cd-c25bd3f81f51" alt="image" width="38" height="38"/>
-<img src ="https://github.com/user-attachments/assets/61f7fa1f-664c-4b53-93ca-52a09a6b3733" alt="image" width="38" height="38"/>
 
 ## 📈 Graphs
 <div align="center">
