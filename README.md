@@ -71,14 +71,14 @@ My educational journey began with an Associate's Degree in Business Administrati
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="38" height="38"/> </a> 
 <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="38" height="38"/> </a> 
-<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="38" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="33" height="33"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="38" height="33"/> </a> 
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="33" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="38" height="33"/> </a>
-<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="33" />
-<img src ="https://github.com/user-attachments/assets/d596889c-03b4-4d23-b1cd-c25bd3f81f51" alt="image" width="38" height="33"/>
-<img src ="https://github.com/user-attachments/assets/61f7fa1f-664c-4b53-93ca-52a09a6b3733" alt="image" width="38" height="33"/>
+<img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="38" height="38"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="38" height="38"/> </a> 
+<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" height="38" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="38" height="38"/> </a>
+<img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="38" />
+<img src ="https://github.com/user-attachments/assets/d596889c-03b4-4d23-b1cd-c25bd3f81f51" alt="image" width="38" height="38"/>
+<img src ="https://github.com/user-attachments/assets/61f7fa1f-664c-4b53-93ca-52a09a6b3733" alt="image" width="38" height="38"/>
 
 ## 📈 Graphs
 <div align="center">
