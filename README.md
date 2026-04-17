@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/8df4b86f-ad1c-434e-809e-2ca6b8957d74" alt="typescript" width="1004" height="400"/> </a>
+<img src="https://github.com/user-attachments/assets/8df4b86f-ad1c-434e-809e-2ca6b8957d74" alt="typescript" width="1004" height="415"/> </a>
 
 ## Hi, I'm Raphael Caamano
 
