@@ -53,7 +53,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 <img width="37.7%" src = "https://github.com/user-attachments/assets/8dbd6e9f-74ce-48fc-a7f8-9d95a39dfb48" />
 
 
-## 📈 Graphs
+## 📈 Graphs 📈
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelcaamano&bg_color=030314&&color=5ea9eb&line=5ea9eb&point=ffffff&area=false&hide_border=false" border-radius="15">
 </div>
