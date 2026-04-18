@@ -46,6 +46,9 @@ My educational journey began with an Associate's Degree in Business Administrati
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-0b0f19?style=for-the-badge&logo=HuggingFace&logoColor=ffd21e)
 
 
+![Girls Who Code](https://img.shields.io/badge/girls-who-code-04aa6d.svg?style=for-the-badge&logo=girls-who-code&logoColor=ffffff)
+
+
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 <p align="center">
 <a href="http://127.0.0.1/">
