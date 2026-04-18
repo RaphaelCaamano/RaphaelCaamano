@@ -9,6 +9,7 @@ I'm a transfer student at Lehman College, majoring in Computer Information Syste
 My educational journey began with an Associate's Degree in Business Administration with a concentration in Computer Programming at Bronx Community College. Not only did I receive a solid foundation in the essentials that make up the field of business, but I also acquired a skill set necessary for the design of a computer software solution. I proceeded to attain a Bachelor's Degree in Computer Information Systems at Lehman College, where I expanded my knowledge in areas of database management, microcomputer architecture, and spreadsheet analysis.
 
 ## 💻 Tech Stack
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![C](https://img.shields.io/badge/c-394aab.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599c.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
