@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/8df4b86f-ad1c-434e-809e-2ca6b8957d74" alt="typescript" width="850" height="416"/> </a>
 
-## Hi, I'm Raphael Caamano
+## 👋 Hi, I'm Raphael Caamano
 
 I'm a transfer student at Lehman College, majoring in Computer Information Systems. Tech Enthusiast who takes opportunities to further enhance my programming skills through taking more challenging coursework and projects that would bring me to an even deeper understanding of the theoretical underpinnings to form the basis for modern computing technologies.  
 
