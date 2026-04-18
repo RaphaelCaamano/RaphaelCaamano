@@ -21,6 +21,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-babefb.svg?style=for-the-badge&logo=SQL&logoColor=324661)
 ![Anaconda](https://img.shields.io/badge/Anaconda-43b049.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Spyder](https://img.shields.io/badge/spyder-ffffff.svg?style=for-the-badge&logo=spyderide&logoColor=8c0000)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2c2255.svg?style=for-the-badge&logo=Eclipse&logoColor=FE7A16)
@@ -61,9 +62,4 @@ My educational journey began with an Associate's Degree in Business Administrati
 
 [![LinkedIn](https://img.shields.io/badge/-linkedin-%230065C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raphael-caamano/)
 [![Handshake](https://img.shields.io/badge/handshake-cbf746?style=for-the-badge&logo=handshake&logoColor=052326)](https://lehmancuny.joinhandshake.com/profiles/raphael-caamano/)
-
-
-
-![SQL](https://img.shields.io/badge/SQL-babefb.svg?style=for-the-badge&logo=SQL&logoColor=324661)
-
 
