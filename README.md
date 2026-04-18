@@ -63,7 +63,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 <img src = "https://github.com/user-attachments/assets/6e37a38c-deb2-49bd-a64c-a190eb979351" alt="image" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="40"/> </a>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" alt="flask" width="42" height="40"/> </a>
-<img src ="https://github.com/user-attachments/assets/04525c32-c8ad-4b19-8e7d-6c06d0c94561" alt="image" width="42" height="42"/>
+<img src ="https://github.com/user-attachments/assets/04525c32-c8ad-4b19-8e7d-6c06d0c94561" alt="image" width="44" height="44"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="38" height="38"/> </a>
 <img src ="https://github.com/user-attachments/assets/c76f3ffc-6a3c-4e61-bd94-94087f860a2e" alt="image" width="38" height="38"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a>
