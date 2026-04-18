@@ -4,7 +4,8 @@
 
 I'm a transfer student at Lehman College, majoring in Computer Information Systems. Tech Enthusiast who takes opportunities to further enhance my programming skills through taking more challenging coursework and projects that would bring me to an even deeper understanding of the theoretical underpinnings to form the basis for modern computing technologies.  
 
-## About
+##<img width="514" height="512" alt="briefcase_1f4bc" src="https://github.com/user-attachments/assets/923d7fb8-3e4e-448b-a7d5-a806a4ba7b7c" /> About
+
 
 My educational journey began with an Associate's Degree in Business Administration with a concentration in Computer Programming at Bronx Community College. Not only did I receive a solid foundation in the essentials that make up the field of business, but I also acquired a skill set necessary for the design of a computer software solution. I proceeded to attain a Bachelor's Degree in Computer Information Systems at Lehman College, where I expanded my knowledge in areas of database management, microcomputer architecture, and spreadsheet analysis.
 
