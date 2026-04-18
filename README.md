@@ -72,9 +72,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 
 
 
-
-
-![Handshake](https://img.shields.io/badge/handshake-cbf746?style=for-the-badge&logo=handshake&logoColor=052326](https://lehmancuny.joinhandshake.com/profiles/raphael-caamano/))
+[![Handshake](https://shields.io)](https://lehmancuny.joinhandshake.com/profiles/raphael-caamano/)
 
 
 
