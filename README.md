@@ -64,7 +64,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 ![LinkedIn](https://img.shields.io/badge/-linkedin-%230065C2?style=for-the-badge&logo=linkedin&logoColor=white-https://www.linkedin.com/in/raphael-caamano/)
 
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/raphael-caamano/)
+[![LinkedIn](https://img.shields.io/badge/-linkedin)](https://www.linkedin.com/in/raphael-caamano/)
 
 [![Handshake](https://img.shields.io/badge/handshake-cbf746?style=for-the-badge&logo=handshake&logoColor=052326)](https://lehmancuny.joinhandshake.com/profiles/raphael-caamano/)
 
