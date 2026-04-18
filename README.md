@@ -65,6 +65,6 @@ My educational journey began with an Associate's Degree in Business Administrati
 
 
 
-[LinkedIn](https://img.shields.io/badge/-LinkedIn-%230065C2?logo=linkedIn&logoColor=white&logoWidth=30)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 
 
