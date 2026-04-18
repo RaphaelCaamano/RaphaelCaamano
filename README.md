@@ -36,12 +36,6 @@ My educational journey began with an Associate's Degree in Business Administrati
 ![Drizzle](https://img.shields.io/badge/-Drizzle-17161b?style=for-the-badge&logo=Drizzle&logoColor=c9f850)
 ![Shadcn/ui](https://img.shields.io/badge/shadcnui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-## Certifications
-![W3schools](https://img.shields.io/badge/W3schools-04aa6d.svg?style=for-the-badge&logo=w3schools&logoColor=ffffff)
-![Codecademy](https://img.shields.io/badge/Codecademy-101630?style=for-the-badge&logo=codecademy&logoColor=FFF0E5)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-0b0f19?style=for-the-badge&logo=HuggingFace&logoColor=ffd21e)
-
-
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 <p align="center">
 <a href="http://127.0.0.1/">
