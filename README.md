@@ -64,5 +64,6 @@ My educational journey began with an Associate's Degree in Business Administrati
 
 
 
+![SQL](https://img.shields.io/badge/c-394aab.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
