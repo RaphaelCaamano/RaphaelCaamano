@@ -41,6 +41,8 @@ My educational journey began with an Associate's Degree in Business Administrati
 
 ## Certification
 ![W3schools](https://img.shields.io/badge/W3schools-04aa6d.svg?style=for-the-badge&logo=w3schools&logoColor=ffffff)
+![Bloomberg](https://img.shields.io/badge/-Bloomberg-%23000000.svg?style=for-the-badge&logo=Bloomberg&logoColor=white)
+![Forage](https://img.shields.io/badge/-Forage-ffffff.svg?style=for-the-badge&logo=Forage&logoColor=230065C2)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-0b0f19?style=for-the-badge&logo=HuggingFace&logoColor=ffd21e)
 
