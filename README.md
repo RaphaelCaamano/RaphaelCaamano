@@ -35,7 +35,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 ![Next JS](https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-00273f.svg?style=for-the-badge&logo=typescript&logoColor=007acc)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38bdf8.svg?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-0f172a.svg?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-17161b?style=for-the-badge&logo=Drizzle&logoColor=c9f850)
 ![Shadcn/ui](https://img.shields.io/badge/shadcnui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 
