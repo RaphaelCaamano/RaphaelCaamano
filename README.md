@@ -65,6 +65,10 @@ My educational journey began with an Associate's Degree in Business Administrati
 
 
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20-0A66C2?logo=linkedin-white&logoColor=fff-width=1000-height=1000)](#)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/raphael-caamano/)
+
+
+
 
 
