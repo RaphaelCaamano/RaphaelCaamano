@@ -1,11 +1,9 @@
 <img src="https://github.com/user-attachments/assets/8df4b86f-ad1c-434e-809e-2ca6b8957d74" alt="typescript" width="850" height="416"/> </a>
 
 ## Hi, I'm Raphael Caamano
-
 I'm a transfer student at Lehman College, majoring in Computer Information Systems. Tech Enthusiast who takes opportunities to further enhance my programming skills through taking more challenging coursework and projects that would bring me to an even deeper understanding of the theoretical underpinnings to form the basis for modern computing technologies.  
 
 ## About
-
 My educational journey began with an Associate's Degree in Business Administration with a concentration in Computer Programming at Bronx Community College. Not only did I receive a solid foundation in the essentials that make up the field of business, but I also acquired a skill set necessary for the design of a computer software solution. I proceeded to attain a Bachelor's Degree in Computer Information Systems at Lehman College, where I expanded my knowledge in areas of database management, microcomputer architecture, and spreadsheet analysis.
 
 ## 💻 Tech Stack
@@ -52,19 +50,14 @@ My educational journey began with an Associate's Degree in Business Administrati
 <img width="21.7%" src = "https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" /> 
 <img width="37.7%" src = "https://github.com/user-attachments/assets/8dbd6e9f-74ce-48fc-a7f8-9d95a39dfb48" />
 
-
 ## 📈 Graphs 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelcaamano&bg_color=030314&&color=5ea9eb&line=5ea9eb&point=ffffff&area=false&hide_border=false" border-radius="15">
 </div>
 
 ## 📡 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/-linkedin-%230065C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raphael-caamano/)
-<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="200">
 [![Handshake](https://img.shields.io/badge/handshake-cbf746?style=for-the-badge&logo=handshake&logoColor=052326)](https://lehmancuny.joinhandshake.com/profiles/raphael-caamano/)
-
-
 
 
 
