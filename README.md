@@ -58,7 +58,7 @@ My educational journey began with an Associate's Degree in Business Administrati
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelcaamano&bg_color=030314&&color=5ea9eb&line=5ea9eb&point=ffffff&area=false&hide_border=false" border-radius="15">
 </div>
 
-## Connect with Me
+## 📡 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-linkedin-%230065C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raphael-caamano/)
 [![Handshake](https://img.shields.io/badge/handshake-cbf746?style=for-the-badge&logo=handshake&logoColor=052326)](https://lehmancuny.joinhandshake.com/profiles/raphael-caamano/)
