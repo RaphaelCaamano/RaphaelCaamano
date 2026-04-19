@@ -70,20 +70,3 @@ My educational journey began with an Associate's Degree in Business Administrati
 
 
 
-
-
-<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/9efeb699-f349-4fd9-9c58-dbe28fc00d9a" />
-<img width="340" height="200" alt="image" src="https://github.com/user-attachments/assets/08b69552-46b5-4482-b1a5-a42973090b4c" />
-<img width="340" height="200" alt="image" src="https://github.com/user-attachments/assets/786834ef-7003-4824-b728-187874a47d66" />
-<img width="340" height="200" alt="image" src="https://github.com/user-attachments/assets/8390ae39-ca32-4917-8f0a-7578889978bc" />
-
-
-
-
-
-
-
-
-
-
-
