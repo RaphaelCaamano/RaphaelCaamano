@@ -39,9 +39,9 @@ My educational journey began with an Associate's Degree in Business Administrati
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 <p align="center">
 <a href="http://127.0.0.1/">
-<img height="169px" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=holi">
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=holi">
 <a href="http://127.0.0.1/">
-<img height="169px" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak" /> 
+<img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak" /> 
 <img height="161px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raphael Caamano&theme=holi">
 <img height="161px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raphael Caamano&theme=holi&utcOffset=3">
 
