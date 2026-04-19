@@ -43,6 +43,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 <a href="http://127.0.0.1/">
 <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak" /> 
 <br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raphael Caamano&theme=holi">
 
 ## Languages and Tools
 <p align="center">
@@ -61,9 +62,6 @@ My educational journey began with an Associate's Degree in Business Administrati
 
 
 
-
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raphael Caamano&theme=holi">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raphael Caamano&theme=holi">
 
