@@ -42,8 +42,8 @@ My educational journey began with an Associate's Degree in Business Administrati
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=holi">
 <a href="http://127.0.0.1/">
 <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak" /> 
-<img height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raphael Caamano&theme=holi">
-<img height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raphael Caamano&theme=holi&utcOffset=3">
+<img height="161x" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raphael Caamano&theme=holi">
+<img height="161px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raphael Caamano&theme=holi&utcOffset=3">
 
 ## Languages and Tools
 <p align="center">
