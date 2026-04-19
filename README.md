@@ -42,14 +42,14 @@ My educational journey began with an Associate's Degree in Business Administrati
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=holi">
 <a href="http://127.0.0.1/">
 <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak" /> 
-<img height="161px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raphael Caamano&theme=holi">
-<img height="162px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raphael Caamano&theme=holi&utcOffset=3">
+<img width="150.9%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raphael Caamano&theme=holi">
+<img width="150.9%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raphael Caamano&theme=holi&utcOffset=3">
 
 ## Languages and Tools
 <p align="center">
 <img height="160px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaphaelCaamano&theme=holi">
-<img width="150.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" />
-<img width="150.9%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raphael Caamano&theme=holi">
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" />
+<img height="160px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raphael Caamano&theme=holi">
 
 ## 📈 Graphs 
 <div align="center">
