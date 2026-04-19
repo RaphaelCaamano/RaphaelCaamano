@@ -54,8 +54,6 @@ My educational journey began with an Associate's Degree in Business Administrati
 <img width="32.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaphaelCaamano&theme=holi">
 <img width="32.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaphaelCaamano&theme=holi">
 
-
-
 ## 📈 Graphs 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelcaamano&bg_color=030314&&color=5ea9eb&line=5ea9eb&point=ffffff&area=false&hide_border=false" border-radius="15">
@@ -66,6 +64,10 @@ My educational journey began with an Associate's Degree in Business Administrati
 [![Handshake](https://img.shields.io/badge/handshake-cbf746?style=for-the-badge&logo=handshake&logoColor=052326)](https://lehmancuny.joinhandshake.com/profiles/raphael-caamano/)
 
 
+
+
+
+<img src="https://github.com/user-attachments/assets/2235df87-5b9a-4bbd-a484-5ae83f71800b" alt="typescript" width="1005" height="410"/> </a>
 
 
 
