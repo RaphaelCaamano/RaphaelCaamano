@@ -53,7 +53,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 <img width="31.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaphaelCaamano&theme=holi">
 <img width="37.7%" src = "https://github.com/user-attachments/assets/8dbd6e9f-74ce-48fc-a7f8-9d95a39dfb48" />
 <img width="21.7%" src = "https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" />
-<img width="37.7%" src = "https://github.com/user-attachments/assets/af9da04d-c911-4224-8fdd-221691443214" />
+<img width="38.7%" src = "https://github.com/user-attachments/assets/af9da04d-c911-4224-8fdd-221691443214" />
 
 ## 📈 Graphs 
 <div align="center">
