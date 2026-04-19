@@ -48,8 +48,8 @@ My educational journey began with an Associate's Degree in Business Administrati
 ## Languages and Tools
 <p align="center">
 <img height="160px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaphaelCaamano&theme=holi">
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" />
-<img height="160px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raphael Caamano&theme=holi">
+<img width="150.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" />
+<img width="150.9%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raphael Caamano&theme=holi">
 
 ## 📈 Graphs 
 <div align="center">
