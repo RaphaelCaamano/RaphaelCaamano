@@ -71,7 +71,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 
 
 
-<img width="39.7%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="21.4%" src = "https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" /> <img width="37.7%" src = "https://github.com/user-attachments/assets/f4bd76e8-6362-46c1-85db-02189470edd4" />
+<img width="21.4%" src = "https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" /> 
 
 
 
