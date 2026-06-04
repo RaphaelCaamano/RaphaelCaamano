@@ -96,15 +96,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 
 
 
-  <a href="http://127.0.0.1/">
-    <img height="168px" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=holi">
-    <img width="50.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak"">
-<br>
-  <p align="center">
-  <a href="http://127.0.0.1/">
-    <img height="151px" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=CRUD-REST-API&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
-    <img width="50.9%" src="https://github-contributor-stats.vercel.app/api?username=raphaelcaamano&limit=2&theme=holi&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" />
- <br>
+<img class="img" width="36.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> <img width="37.4%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="22.6%" src = "https://github.com/user-attachments/assets/5739628d-d372-40da-a132-56cf0c41b64b" />
 
 
 
