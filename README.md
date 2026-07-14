@@ -16,6 +16,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Linux](https://img.shields.io/badge/linux-%23121011.svg?style=for-the-badge&logo=linux&logoColor=yellow)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-1f425f?style=for-the-badge&logo=python&logoColor=ffde58) 
 ![Flask](https://img.shields.io/badge/flask-FFFFFF.svg?style=for-the-badge&logo=flask&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-0078D4.svg?style=for-the-badge&logo=SQL&logoColor=f0f0f0)
@@ -35,7 +36,6 @@ My educational journey began with an Associate's Degree in Business Administrati
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-161d2d.svg?style=for-the-badge&logo=tailwind-css&logoColor=16becb)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-17161b?style=for-the-badge&logo=Drizzle&logoColor=c9f850)
 ![Shadcn/ui](https://img.shields.io/badge/shadcnui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 <p align="center">
