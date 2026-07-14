@@ -13,7 +13,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-470137.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-264de4.svg?style=for-the-badge&logo=css&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-00A699?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-005A9C?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Linux](https://img.shields.io/badge/linux-%23121011.svg?style=for-the-badge&logo=linux&logoColor=yellow)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
