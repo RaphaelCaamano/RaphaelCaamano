@@ -19,7 +19,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-1f425f?style=for-the-badge&logo=python&logoColor=ffde58) 
 ![Flask](https://img.shields.io/badge/flask-FFFFFF.svg?style=for-the-badge&logo=flask&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-0078D4.svg?style=for-the-badge&logo=Stack%20Exchange&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0078D4.svg?style=for-the-badge&logo=sql%20Exchange&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-43b049.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-white?style=for-the-badge&logo=spyder%20ide&logoColor=8c0000)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2c2255.svg?style=for-the-badge&logo=Eclipse&logoColor=FE7A16)
