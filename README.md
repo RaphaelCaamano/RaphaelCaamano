@@ -45,6 +45,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 
 ## 📱 Languages and Tools
 <p align="center">
+<img height="189px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=holi">
 <img width="22.5%" src="https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" /> 
 <img height="189px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raphael Caamano&theme=holi">
 
@@ -89,19 +90,5 @@ My educational journey began with an Associate's Degree in Business Administrati
 
 <a href="https://lehmancuny.joinhandshake.com/profiles/raphael-caamano/" target="_blank">
 <img src="https://github.com/user-attachments/assets/082993c2-28e1-492d-8cdf-d1bd49308e55" alt="Handshake" width="41" height="41"/> </a>
-
-
-
-
-
-
-
-
-<img class="img" width="36.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> 
-<img width="37.4%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> 
-<img width="22.6%" src = "https://github.com/user-attachments/assets/5739628d-d372-40da-a132-56cf0c41b64b" />
-
-
-
 
 
