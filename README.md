@@ -100,9 +100,40 @@ My educational journey began with an Associate's Degree in Business Administrati
 
 
 
+<img width="39.7%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="21.4%" src = "https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" /> <img width="37.7%" src = "https://github.com/user-attachments/assets/f4bd76e8-6362-46c1-85db-02189470edd4" />
+
+
+<img src="https://github.com/user-attachments/assets/2235df87-5b9a-4bbd-a484-5ae83f71800b" alt="typescript" width="1005" height="410"/> </a>
+
+
+
+
+
+
+
 ## <img width="26" height="30" alt="image" src="https://github.com/user-attachments/assets/6f63b0a0-14ed-4662-900a-9a634fa6b056" /> Languages and Tools
 <p align="center">
-<img class="img" width="36.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" /> <img width="37.4%" src = "https://github.com/user-attachments/assets/dad2ddd0-c748-4dd9-8409-647d793a66c3" /> <img width="22.6%" src = "https://github.com/user-attachments/assets/5739628d-d372-40da-a132-56cf0c41b64b" />
+<img width="38.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" />
+<img width="21.7%" src = "https://github.com/user-attachments/assets/5748fe24-634c-468f-826c-5100cce01a01" />
+<img width="37.7%" src = "https://github.com/user-attachments/assets/8dbd6e9f-74ce-48fc-a7f8-9d95a39dfb48" />
+<img width="38.7%" src = "https://github.com/user-attachments/assets/af9da04d-c911-4224-8fdd-221691443214" />
+
+
+
+
+
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=holi">
+<a href="http://127.0.0.1/">
+
+<img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak" /> 
+
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaamano&theme=holi&layout=compact" />
+
+
+
+
+
 
 
 
