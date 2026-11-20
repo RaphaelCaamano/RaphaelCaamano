@@ -87,37 +87,3 @@ My educational journey began with an Associate's Degree in Business Administrati
 <a href="https://lehmancuny.joinhandshake.com/profiles/raphael-caamano/" target="_blank">
 <img src="https://github.com/user-attachments/assets/082993c2-28e1-492d-8cdf-d1bd49308e55" alt="Handshake" width="41" height="41"/> </a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <p align="center">
-  <a href="http://127.0.0.1/">
-    <img height="151px" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelcaamano&repo=CRUD-REST-API&theme=holi&show_owner=true" alt="Awesome-Dev-Portfolios" />
- <br>
-
-
-
-
-
-
-    
-
-
