@@ -45,7 +45,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 <br>
 <p align="center">
 <a href="http://127.0.0.1/">
-<img height="200x" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raphael Caamano&theme=holi">
+<img height="230x" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raphael Caamano&theme=holi">
 
 ## 📱 Languages and Tools
 <p align="center">
