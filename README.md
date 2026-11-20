@@ -115,7 +115,7 @@ My educational journey began with an Associate's Degree in Business Administrati
 
 
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=holi">
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=raphaelcaamano&show_icons=true&theme=holi">
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaamano&theme=holi-theme" alt="GitHub Streak"">
 
 
